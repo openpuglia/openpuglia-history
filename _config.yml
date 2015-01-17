@@ -6,7 +6,7 @@ url: "http://opendatabari.github.io" # the base hostname & protocol for your sit
 theme:
   # Meta
   title: open Puglia
-  avatar: avatar.png
+  avatar: logo.png
   gravatar: # email md5 hash
   description: "Civic Hacking Blog" # used by search engines
   
