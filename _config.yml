@@ -7,7 +7,7 @@ theme:
   # Meta
   title: open Puglia
   avatar: logo.png
-  gravatar: # email md5 hash
+  gravatar: opendatabari
   description: "Civic Hacking Blog" # used by search engines
   
   # Header and footer text
