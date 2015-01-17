@@ -42,7 +42,8 @@ theme:
   
   # Scripts
   google_analytics: "UA-9970885-18"
-  disqus_shortname:
+  disqus_shortname: false
+  facebook_comments: true
   
   # Localization strings
   str_follow_on: "Follow on"

@@ -22,5 +22,12 @@ layout: default
       {% include disqus.html %}
     </section>
   {% endif %}
+    
+  <!-- Facebook -->
+  {% if site.theme.facebook_comments %}
+    <section class="comments">
+      {% include facebook.html %}
+    </section>
+  {% endif %}
   
 </article>
