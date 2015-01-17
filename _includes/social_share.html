@@ -1,0 +1,27 @@
+<hr />  
+      
+<p class="meta">
+    <div class="fb-share-button" data-href=" {{ site.url }} / {{ page.baseurl }} / {{ page.url }} " data-layout="button"></div>  
+
+<a class="twitter-share-button"
+  href="https://twitter.com/share"
+  data-url=" {{ site.url }} / {{ page.baseurl }} / {{ page.url }} "
+  data-hashtags="openpuglia">
+Tweet
+</a>
+<script>
+window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+</script>
+
+<!-- Posiziona questo tag all'interno del tag head oppure subito prima della chiusura del tag body. -->
+<script src="https://apis.google.com/js/platform.js" async defer>
+  {lang: 'it'}
+</script>
+
+<!-- Inserisci questo tag nel punto in cui vuoi che sia visualizzato l'elemento pulsante Condividi. -->
+<div class="g-plus" 
+     data-action="share" 
+     data-annotation="none" 
+     data-href=" {{ site.url }} / {{ page.baseurl }} / {{ page.url }} "></div>
+
+</p>
