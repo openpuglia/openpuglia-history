@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme" # the subpath of your site, e.g. /blog/
-url: "https://rohanchandra.github.io/" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://opendatabari.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: open Puglia
   avatar: avatar.png
   gravatar: # email md5 hash
-  description: "A website with blog posts, and pages." # used by search engines
+  description: "Civic Hacking Blog" # used by search engines
   
   # Header and footer text
   header_text: >
@@ -19,15 +19,15 @@ theme:
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
   
   # Icons
-  rss: false
+  rss: true
   email_address: # full email address, e.g. "sam@example.com"
   behance:
   bitbucket: 
   dribbble: 
-  facebook: 
+  facebook: "https://www.facebook.com/groups/1582370461982907/"
   flickr: 
   github: "rohanchandra/type-theme"
-  google_plus: 
+  google_plus: "https://plus.google.com/communities/114201169795304528470"
   instagram: 
   linkedin:  # full URL
   pinterest: 
@@ -36,7 +36,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: "openpuglia"
   wordpress: 
   youtube: 
   
