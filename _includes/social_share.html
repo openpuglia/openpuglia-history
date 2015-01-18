@@ -1,28 +1,12 @@
-<hr />  
-      
 <p class="meta">
     
-    <div class="fb-share-button" 
-         data-href=" {{ site.url }} / {{ page.baseurl }} / {{ page.url }} " 
-         data-layout="box_count">
-    </div>  
-<a class="twitter-share-button"
-  href="https://twitter.com/share"
-  data-url=" {{ site.url }} / {{ page.baseurl }} / {{ page.url }} "
-  data-hashtags="openpuglia"
-   data-count="vertical">
-Tweet
-</a>
-<script>
-window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
-</script>
+    <a href="http://www.facebook.com/share.php?u={{ site.url }}{{ site.baseurl }}/{{ page.baseurl }}/{{ page.url }}&title={{ page.title }}" target="_blank"><i class="fa fa-facebook-square"></i></a>
+    
+    <a href="http://twitter.com/home?status={{ page.title }}+{{ site.url }}{{ site.baseurl }}/{{ page.baseurl }}/{{ page.url }}" target="_blank"><i class="fa fa-twitter-square"></i></a>
+    
+    <a href="https://plus.google.com/share?url={{ site.url }}{{ site.baseurl }}/{{ page.baseurl }}/{{ page.url }}" target="_blank"><i class="fa fa-google-plus-square"></i></a>
+    
+    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}/{{ page.baseurl }}/{{ page.url }}&title={{ page.title }}&source=openpuglia.org" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 
-<!-- Posiziona questo tag all'interno del tag head oppure subito prima della chiusura del tag body. -->
-<script src="https://apis.google.com/js/platform.js" async defer>
-  {lang: 'it'}
-</script>
-
-<!-- Inserisci questo tag nel punto in cui vuoi che sia visualizzato l'elemento pulsante Condividi. -->
-<div class="g-plus" data-action="share" data-annotation="vertical-bubble" data-height="60" data-href="http://kod.gzileni.name"></div>
-
+    
 </p>

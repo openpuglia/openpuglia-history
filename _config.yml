@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://opendatabari.github.io" # the base hostname & protocol for your site
+url: "http://opendatabari.github.io/blog" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -25,7 +25,7 @@ theme:
   dribbble: 
   facebook: "https://www.facebook.com/groups/1582370461982907/"
   flickr: 
-  github: "rohanchandra/type-theme"
+  github: "opendatabari"
   google_plus: "https://plus.google.com/communities/114201169795304528470"
   instagram: 
   linkedin:  # full URL

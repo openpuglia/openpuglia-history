@@ -17,7 +17,23 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
         
-        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <p class="meta">{{ post.date | date: "%B %-d, %Y" }} | {{ post.author }} 
+            {% if post.linkedin %}
+                <a href=" {{ post.linkedin }} " target="_blank">
+                    <i class="fa fa-linkedin"></i>
+                </a>
+            {% endif %}
+            {% if post.twitter %}
+            <a href=" {{ post.twitter }} " target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a> 
+            {% endif %}
+            {% if post.email %}
+            <a href="mailto: {{ post.email }} " target="_blank">
+                <i class="fa fa-envelope"></i>
+            </a>
+            {% endif %}
+          </p>
       </header>
 
       <div class="excerpt">

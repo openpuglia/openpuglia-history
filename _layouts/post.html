@@ -1,37 +1,51 @@
 ---
 layout: default
 ---
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
-
-  <header style="background-image: url(' {{ site.url }} / {{ page.baseurl }} / {{ page.url }} ')">
-    <h1 class="title">{{ page.title }}</h1>
+<article {% if page.feature-img %} class="feature-image"{% endif %}>
+    
+  <header style="background-image: url('{{site.url}}{{site.baseurl}}/img/{{page.feature-img}}'); opacity: 0.7; filter: alpha(opacity=70); background-color: #ffffff;">
+    {% include social_share.html %}  
+    <h1 class="title" style="color: #3399FF;">{{ page.title }}</h1>
     <p class="meta">
     {{ page.date | date: "%B %-d, %Y" }}
-    {% if page.author %} - {{ page.author }} <a href=" {{ page.linkedin }} " target="_blank"><i class="fa fa-linkedin"></i></a> <a href=" {{ page.twitter }} " target="_blank"><i class="fa fa-twitter"></i></a> <a href="mailto: {{ page.twitter }} " target="_blank"><i class="fa fa-envelope"></i></a>
-        
+    {% if page.author %} - {{ page.author }} 
+        {% if page.linkedin %}
+            <a href=" {{ page.linkedin }} " target="_blank">
+                <i class="fa fa-linkedin"></i>
+            </a>
         {% endif %}
-    </p>
+        {% if page.twitter %}
+            <a href=" {{ page.twitter }} " target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a> 
+        {% endif %}
+        {% if page.email %}
+            <a href="mailto: {{ page.email }} " target="_blank">
+                <i class="fa fa-envelope"></i>
+            </a>
+        {% endif %}
+        
+    {% endif %}
+    </p> 
       
-      {% include social_share.html %}
+     
       
   </header>
-
-  <section class="post-content">
-    {{ content }}
-  </section>
     
-  <!-- Disqus -->
-  {% if site.theme.disqus_shortname %}
-    <section class="comments">
+    {% if page.video %}
+      {% include video.html %}
+    {% endif %} 
+    
+    {% include content.html %} 
+    
+    <!-- Disqus -->  
+    {% if site.theme.disqus_shortname %}
       {% include disqus.html %}
-    </section>
-  {% endif %}
-    
-  <!-- Facebook -->
-  {% if site.theme.facebook_comments %}
-    <section class="comments">
-      {% include facebook.html %}
-    </section>
-  {% endif %}
-  
+    {% endif %}  
+      
+    <!-- Facebook -->
+    {% if site.theme.facebook_comments %}
+        {% include facebook.html %}
+    {% endif %}
+      
 </article>
