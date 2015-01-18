@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Politiche dell’Innovazione, terza missione e sviluppo del territorio in diretta streaming
+title: Sviluppo del territorio ed innovazione in diretta streaming
 feature-img: "img/univbari.jpg"
 date: 2015-01-18
 categories:
