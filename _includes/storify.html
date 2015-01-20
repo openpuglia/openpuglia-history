@@ -1,0 +1,6 @@
+{% if page.storify %}
+<section class="post-content">
+    <div class="storify"><iframe src="{{ page.storify }}/embed?header=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="{{ page.storify }}.js?header=false"></script><noscript>[<a href="{{ page.storify }}" target="_blank">View the story {{ page.title }}]</noscript>
+    </div>
+</section>
+{% endif %}
