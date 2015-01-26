@@ -3,7 +3,7 @@ layout: post
 title: Gli stati generali dell’innovazione A Bari, Servizio di I Move Puglia
 date: 2015-01-26
 feature-img: expostebari.jpg
-video: https://www.youtube.com/watch?v=6THcjEOzBTI
+video: //www.youtube.com/embed/6THcjEOzBTI
 categories:
 - Innovazione
 tags:
