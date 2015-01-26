@@ -11,6 +11,7 @@ tags:
 - #sgipuglia
 - #openpuglia
 - #innovazione
+- #sgipuglia
 status: publish
 type: post
 published: true
