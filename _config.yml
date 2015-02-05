@@ -10,7 +10,6 @@ theme:
   avatar: logo.png
   gravatar: 
   description: "Civic Hacking Blog" # used by search engines
-  avatar: avatar.png
   
   # Header and footer text
   header_text: >
