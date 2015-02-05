@@ -3,7 +3,6 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://opendatabari.github.io" # the base hostname & protocol for your site
 about_link: "http://opendatabari.github.io/openpuglia"
 baseurl: ""
-url: "https://rohanchandra.github.io/"
 
 theme:
   # Meta
