@@ -6,7 +6,7 @@ about_link: "http://opendatabari.github.io/openpuglia"
 
 theme:
   # Meta
-  title: open Puglia Blog
+  title: openPuglia Blog
   avatar: logo.png
   gravatar: 
   description: "Civic Hacking Blog" # used by search engines
