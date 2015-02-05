@@ -1,8 +1,7 @@
 # SITE CONFIGURATION
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://opendatabari.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://opendatabari.github.io/blog" # the base hostname & protocol for your site
 about_link: "http://opendatabari.github.io/openpuglia"
-baseurl: "http://opendatabari.github.io"
 
 theme:
   # Meta
