@@ -2,10 +2,10 @@
 layout: page
 title: OpenDataDay Bari 2015
 permalink: /odd15/
-feature-img: "img/oddbari15.jpg"
+feature-img: "img/bg.jpg"
 ---
 
-# OPEN DATA DAY 2015
+![ODD]({{ site.url }}/{{ site.baseurl }}/img/oddbari15.jpg)
 
 # a Bari tutti a confronto per migliorare con i dati
 
