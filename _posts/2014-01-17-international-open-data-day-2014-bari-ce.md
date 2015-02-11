@@ -14,7 +14,7 @@ email: chiara.ciociola@gmail.com
 twitter:
 linkedin:
 ---
-<p style="text-align: left;"> <a href="http://www.opendatabari.it/wp-content/uploads/2014/01/akuBari.png"><img class="alignnone size-full wp-image-226" alt="Associazione AkuBari" src="assets/akuBari.png" width="119" height="67" /></a>         <a href="http://www.opendatabari.it/wp-content/uploads/2014/01/qiris.png"><img class="alignnone size-full wp-image-227" alt="Associazione Qiris" src="assets/qiris.png" width="158" height="47" /></a>      <a href="http://www.opendatabari.it/wp-content/uploads/2014/01/logo+nome.png"><img class="alignnone  wp-image-230" style="margin-top: 8px; margin-bottom: 8px;" alt="Associazione OpenBSK" src="assets/logo+nome-300x56.png" width="214" height="41" /></a></p>
+
 <p>Il <strong>22 febbraio </strong>2014 come di consueto è la giornata dedicata all’<a href="http://opendataday.it/"><strong>International Open Data Day</strong></a>.</p>
 <p>Quest'anno le Associazioni <strong>AkuBari</strong>, <strong>QIRIS</strong> e <strong>OpenBSK</strong> stanno organizzando l'edizione barese<b>: </b>una (intensa) giornata tra conferenze, workshop e testimonianze.</p>
 

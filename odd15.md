@@ -53,7 +53,7 @@ Per informazioni: [Massimo Zotti, Stati Generali dell’Innovazione - Puglia](ma
 
 <hr />
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3006.2218639738426!2d16.880636899999995!3d41.107845399999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1347e84ee544e5e1%3A0xcc72ea3a811e3710!2sVia+Edoardo+Orabona%2C+4%2C+70125+Bari!5e0!3m2!1sit!2sit!4v1423564780026" width="800" height="600" frameborder="0" style="border:0"></iframe>
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=16.87773048877716%2C41.10674150500346%2C16.881308555603027%2C41.10919496172168&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/41.10797/16.87952">Visualizza mappa ingrandita</a></small>
 
 <hr />
 
