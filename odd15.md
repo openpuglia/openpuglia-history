@@ -12,7 +12,9 @@ feature-img: "img/bg.jpg"
 <b>Sabato 21 febbraio 2015, dalle 9.00 alle 18.00<br />
 Aula Magna “Edoardo Orabona”, Politecnico di Bari – via Orabona 4</b>
 
+<hr />
 ![Manifesto]({{ site.url }}/{{ site.baseurl }}/img/manifesto-odd.jpg)
+<hr />
 
 Persone ed organizzazioni raccolgono, per svolgere i loro compiti, una svariata gamma di dati d’ogni tipo. Dati ambientali sulla qualità dell’aria e dell’acqua, dati sulla posizione degli autobus nelle nostre città, dati sui beni culturali e sul patrimonio artistico del nostro territorio. La maggior parte di questi dati sono prodotti e gestiti da enti pubblici, sono a loro volta pubblici per legge, e dovrebbero quindi essere resi aperti e disponibili all’uso per chiunque. Si chiamano Open Data, e sono una immensa risorsa ancora in gran parte inutilizzata. 
 
