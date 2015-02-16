@@ -12,6 +12,8 @@ feature-img: "img/bg.jpg"
 <b>Sabato 21 febbraio 2015, dalle 9.00 alle 18.00<br />
 Aula Magna “Edoardo Orabona”, Politecnico di Bari – via Orabona 4</b>
 
+![Manifesto]({{ site.url }}/{{ site.baseurl }}/img/manifesto-odd.jpg)
+
 Persone ed organizzazioni raccolgono, per svolgere i loro compiti, una svariata gamma di dati d’ogni tipo. Dati ambientali sulla qualità dell’aria e dell’acqua, dati sulla posizione degli autobus nelle nostre città, dati sui beni culturali e sul patrimonio artistico del nostro territorio. La maggior parte di questi dati sono prodotti e gestiti da enti pubblici, sono a loro volta pubblici per legge, e dovrebbero quindi essere resi aperti e disponibili all’uso per chiunque. Si chiamano Open Data, e sono una immensa risorsa ancora in gran parte inutilizzata. 
 
 Sono numerose le categorie di soggetti e organizzazioni che possono trarre beneficio dalla disponibilità di dati aperti: le imprese del nostro territorio, ma anche i cittadini e la pubblica amministrazione. Gli Open Data infatti consentono di portare innovazione nella creazione di prodotti e servizi privati ed aumentare l’efficienza ed efficacia dei servizi pubblici, ma migliorano anche la trasparenza ed il controllo democratico, e la partecipazione alla vita pubblica.
