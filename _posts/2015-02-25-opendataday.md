@@ -2,7 +2,7 @@
 layout: post
 title: Open Data Day 2015
 date: 2015-02-25
-feature-img: Elegant_Background-4.jpg
+feature-img: background4.jpg
 video: 
 storify: 
 categories:
