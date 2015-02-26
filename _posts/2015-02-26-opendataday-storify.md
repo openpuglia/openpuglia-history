@@ -2,7 +2,7 @@
 layout: post
 title: Open Data Day 2015, Storify di un giorno dedicato agli opendata
 date: 2015-02-26
-feature-img: bg.jpg
+feature-img: Elegant_Background-5.jpg
 video: 
 storify: https://storify.com/pietroblu/oddit15-a-bari
 categories:
