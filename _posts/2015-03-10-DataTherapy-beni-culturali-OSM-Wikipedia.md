@@ -25,3 +25,8 @@ Alzi il mouse chi non ha utilizzato la **notissima enciclopedia aperta e libera*
 
 ## Cos’è OpenStreetMap
 OSM è un progetto nato nel 2004 che punta a **creare e rendere disponibili dati geografici, liberi e gratuiti a chiunque ne abbia bisogno**. Il progetto è stato lanciato perché la gran parte delle mappe online disponibili normalmente si pensano libere, ma hanno in realtà restrizioni legali o tecniche. **Chiunque può utilizzare i dati di OpenStreetMap a qualsiasi scopo** (anche commerciale) e **senza costi di licenza** ([ODbL](http://opendatacommons.org/licenses/odbl/)), purché ne citi la fonte. I suoi utenti attualmente sono quasi 2 milioni, mentre gli oggetti che la compongono (vedi slide 16 della presentazione) sono complessivamente più di 3 miliardi.
+
+## Cosa abbiamo fatto?
+All’attività hanno partecipato **Antonella Ciociola** e due ragazzi, ingegneri informatici, dei quali purtroppo non ricordo il nome e ne ho perso le tracce. Siamo partiti da uno strumento web che possiamo considerare **l’anello di congiunzione tra Wikipedia e OSM**, si tratta di **WTOSM**, un acronimo che sta appunto per “Wikipedia To OpenStreetMap”. Si tratta di una piattaforma sviluppata in seno alla [Fondazione Bruno Kessler](http://www.fbk.eu/) da Simone Groppo e Cristian Consonni. L’istanza pubblica che abbiamo usato durante l’ODD15 è ospitata dalla Fondazione Edmund Mach a [questo link](http://geodati.fmach.it/gfoss_geodata/osm/wtosm/it_IT/index_1.html).
+
+Viene usata una simbologia per indicare quali articoli in Wikipedia sono totalmente privi di coordinate, quali le possiedono ma non sono collegati a oggetti in OSM, e quali invece sono geocodificati in Wikipedia e viceversa in OSM possiedono anche il tag al relativo articolo nell’enciclopedia.
