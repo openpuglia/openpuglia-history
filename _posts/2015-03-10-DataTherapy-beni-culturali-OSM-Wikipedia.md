@@ -30,3 +30,22 @@ OSM è un progetto nato nel 2004 che punta a **creare e rendere disponibili dati
 All’attività hanno partecipato **Antonella Ciociola** e due ragazzi, ingegneri informatici, dei quali purtroppo non ricordo il nome e ne ho perso le tracce. Siamo partiti da uno strumento web che possiamo considerare **l’anello di congiunzione tra Wikipedia e OSM**, si tratta di **WTOSM**, un acronimo che sta appunto per “Wikipedia To OpenStreetMap”. Si tratta di una piattaforma sviluppata in seno alla [Fondazione Bruno Kessler](http://www.fbk.eu/) da Simone Groppo e Cristian Consonni. L’istanza pubblica che abbiamo usato durante l’ODD15 è ospitata dalla Fondazione Edmund Mach a [questo link](http://geodati.fmach.it/gfoss_geodata/osm/wtosm/it_IT/index_1.html).
 
 Viene usata una simbologia per indicare quali articoli in Wikipedia sono totalmente privi di coordinate, quali le possiedono ma non sono collegati a oggetti in OSM, e quali invece sono geocodificati in Wikipedia e viceversa in OSM possiedono anche il tag al relativo articolo nell’enciclopedia.
+
+Dopo aver familiarizzato con l’interfaccia web e la struttura dati di OSM, **Antonella ha scelto di dedicarsi ai teatri pugliesi presenti in Wikipedia**. Prima del suo lavoro, quelli collegati tra l’enciclopedia e OSM erano solo 2 su 11 totali, alla fine è riuscita a concludere il lavoro: 10 su 11, l’undicesimo è il [Teatro Real Borbone di San Severo](https://it.wikipedia.org/wiki/Teatro_Real_Borbone), che è stato demolito negli anni ‘30 e non andrebbe considerato da WTOSM.
+
+**Il workflow di lavoro adottato** è stato grosso modo il seguente:
+1. scegliamo l’articolo da mappare basandoci sulla legenda;
+2. il modo più facile per creare/modificare gli elementi in OSM (bisogna creare un proprio account ovviamente) è l’editor web ID, che si aprirà direttamente sulle coordinate in OSM una volta cliccato sull’icona in WTOSM;
+3. individuiamo sulla mappa l’elemento al quale si riferisce l’articolo di Wikipedia;
+4. se l’elemento esiste come nodo o poligono, aggiorneremo solo la [key Wikipedia](http://wiki.openstreetmap.org/wiki/Key:wikipedia);
+5. se l’elemento non esiste affatto, lo creeremo noi stessi come nodo o poligono, aggiungendo anche la key Wikipedia.
+
+**A [questo link](https://www.youtube.com/watch?v=_2ouZ7jK5TE) è possibile guardare un utilissimo tutorial di Andrea Borruso che mostra in pochi minuti l’intero processo.**
+
+## Au contraire: aggiornare le coordinate in Wikipedia
+**Nei casi in cui siano gli articoli di Wikipedia ad essere privi di coordinate**, è possibile aggiornare il [template Coordinate](https://it.wikipedia.org/wiki/Template%3ACoord). Questi sono contrassegnati in WTOSM con l’icona di una W rossa. In sostanza si tratta di **invertire il processo**:
+1. individuiamo in OSM l’oggetto cui l’articolo in Wikipedia si riferisce;
+2. posizioniamo la mappa OSM con al centro l’oggetto;
+3. copiamo dall’URL nel browser le coordinate (es. 40.63893/17.94436);
+4. andiamo ad editare in wikitesto l’articolo in Wikipedia (anche in questo caso, bisogna avere un account) inserendo il template Coordinate es. {{coord|40.63893|17.94436|display=title}};
+5. una volta pubblicate le modifiche, l’articolo sarà geotaggato.
