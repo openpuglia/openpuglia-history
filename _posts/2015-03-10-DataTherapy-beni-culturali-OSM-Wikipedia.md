@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 La prima volta che ho sentito parlare di [#datatherapy](https://prezi.com/rwknn0wzqrh0/data-therapy-data-day/) è stato nella nostra lista di **OpenPuglia**, grazie a **Paola Liliana Buttiglione**, che [ne aveva già scritto su OpenPompei](http://www.openpompei.it/2015/02/25/progetto-europeo-ariadne-lo-stvdivm-come-archaeological-data-therapy/).
