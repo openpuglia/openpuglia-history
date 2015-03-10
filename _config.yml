@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://opendatabari.github.io" # the base hostname & protocol for your site
-#url: "http://localhost:4000/blog" # the base hostname & protocol for your site
+#url: "http://opendatabari.github.io" # the base hostname & protocol for your site
+url: "http://localhost:4000" # the base hostname & protocol for your site
 about_link: "http://opendatabari.github.io/openpuglia"
 
 theme:
@@ -13,7 +13,7 @@ theme:
   
   # Header and footer text
   header_text: >
-     <p>Siamo una community per la promozione della cultura digitale.</p>
+     <p>Crediamo nella forza dei dati e della conoscenza aperta come mezzo per indurre la partecipazione, promuovendo nuovi modelli di governance dei territori. Per la qualità della vita, il benessere dei cittadini e nuove opportunità di sviluppo economico dei territori.</p>
      
   footer_text: >
    Powered by <a href="http://opendatabari.github.io/openpuglia/">open Puglia Project</a>

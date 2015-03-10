@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenDataDay Bari 2015
+title: ODD2015
 permalink: /odd15/
 feature-img: "img/bg.jpg"
 ---

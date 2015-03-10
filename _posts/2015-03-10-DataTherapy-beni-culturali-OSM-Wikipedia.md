@@ -1,9 +1,26 @@
 ---
+---
+layout: post
+title: Data Therapy e beni culturali con OSM e Wikipedia
+date: 2015-03-10
+feature-img: Elegant_Background-5.jpg
+video: 
+storify: 
+categories:
+- Educational
+tags:
+- #sgipuglia
+- #openpuglia
+- #oddit15
+status: publish
+type: post
 published: true
 author: Pietro Blu Giandonato
 email: p.giandonato@gmail.com
 twitter: http://www.twitter.com/pietroblu
+linkedin: 
 ---
+
 
 La prima volta che ho sentito parlare di [#datatherapy](https://prezi.com/rwknn0wzqrh0/data-therapy-data-day/) è stato nella nostra lista di **OpenPuglia**, grazie a **Paola Liliana Buttiglione**, che [ne aveva già scritto su OpenPompei](http://www.openpompei.it/2015/02/25/progetto-europeo-ariadne-lo-stvdivm-come-archaeological-data-therapy/).
 

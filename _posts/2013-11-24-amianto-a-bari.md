@@ -2,9 +2,8 @@
 layout: post
 title: Amianto a Bari
 date: 2013-11-24
-categories:
-- OpenStreetMap
-- ambiente
+section: educational
+categories: educational
 tags:
 - amianto
 status: publish
