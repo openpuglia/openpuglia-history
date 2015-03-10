@@ -63,3 +63,15 @@ A rispondere **“Prego, nessuna domanda è stupida”**, con un sorriso d’inc
 
 A fine hackathon, ne rimaneva soltanto uno, il teatro Mercadante di Cerignola, privo di coordinate in Wikipedia… ancora per poco. **Ormai le mani me le sono sporcate, e il lavoro l’ho ultimato**, seguendo il videotutorial “au contraire” prima citato, qualche giorno dopo, in autonomia: nella tabella della categoria Teatri della Puglia di WTOSM non ci sono più icone rosso-allarme. **E una grande, eccitata soddisfazione che mi ha prima sorpreso e poi interrogato: missione (davvero) conclusa? Piuttosto, comincia adesso!** Durante l’attività appena descritta ho conosciuto alcuni teatri pugliesi di cui ignoravo l’esistenza, e contemporaneamente ho notato l’assenza di altri, che invece frequento regolarmente, in OSM e in Wikipedia. Ora so che su OSM posso mapparli, su Wikipedia posso scriverci degli articoli, e poi posso collegare le informazioni. **E magari troverò anche qualcuno insieme a cui provare a raccontare questa nuova storia condivisa… insieme all’esperto di analisi open data, di cui ancora ho bisogno**.
 
+## Estrarre dati da OSM
+I due **ingegneri informatici**, più interessati allo **sfruttamento dei dati da OSM**, hanno preferito giocare con [overpass-turbo](http://overpass-turbo.eu/), un tool web sviluppato da [Martin Raifer](https://www.linkedin.com/pub/martin-raifer/22/957/474/en) che sfrutta le omonime [API](http://wiki.openstreetmap.org/wiki/Overpass_API) per l’estrazione di dati da OpenStreetMap, con query basate sui [numerosissimi tag](http://wiki.openstreetmap.org/wiki/Map_Features) che descrivono gli oggetti presenti nel repository OSM.
+
+**Con overpass-turbo è possibile creare delle query in maniera molto semplice**, anche utilizzando il wizard che consente ad esempio di cercare i teatri presenti a Bari. Ulteriori informazioni su come costruire query le trovate [qui](http://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL).
+
+I dati estratti possono poi essere esportati in molti modi:
+1. come geoJSON da scaricare in locale sul vostro computer;
+2. come GPX per poterli usare nel vostro dispositivo GPS;
+3. come dati grezzi;
+4. usando l’interpreter delle API di Overpass;
+5. caricandoli in un editor OSM come [JOSM](https://josm.openstreetmap.de/) o Level0;
+6. o, cosa molto interessante, **salvandoli in geoJSON direttamente come gist**.
