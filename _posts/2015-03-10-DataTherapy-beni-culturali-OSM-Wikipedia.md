@@ -2,7 +2,7 @@
 layout: post
 title: Data Therapy e beni culturali con OSM e Wikipedia
 date: 2015-03-10
-feature-img: Elegant_Background-4.jpg
+feature-img: datatherapy.jpg
 video: 
 storify: 
 categories:
