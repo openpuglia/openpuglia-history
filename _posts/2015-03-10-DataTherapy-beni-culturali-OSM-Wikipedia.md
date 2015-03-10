@@ -75,3 +75,14 @@ I dati estratti possono poi essere esportati in molti modi:
 4. usando l’interpreter delle API di Overpass;
 5. caricandoli in un editor OSM come [JOSM](https://josm.openstreetmap.de/) o Level0;
 6. o, cosa molto interessante, **salvandoli in geoJSON direttamente come gist**.
+
+Quest’ultima opzione consente di salvare il dataset come Gist per poi **visualizzarlo direttamente in GitHub come [mappa](https://gist.github.com/anonymous/d3531a32f2d0eb983eeb) ed editare i dati**, ma anche con **geojson.io**, un potente tool online che consente la visualizzazione come mappa e l’editing dei dati presenti nel gist anche comodamente come tabella ([link](http://geojson.io/#id=gist:anonymous/d3531a32f2d0eb983eeb&map=14/41.1068/16.8824)).
+
+**Insomma, tirare fuori dati da OSM ed esportarli in tutti i gusti che volete è davvero una passeggiata alla portata di tutti**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkQeoDmpN90" frameborder="0" allowfullscreen></iframe>
+
+## OSM e Wikipedia, uno per tutti, tutti per uno
+**Editare OpenStreetMap e curare gli articoli di Wikipedia, può suscitare grande coinvolgimento**, per alcuni può diventare addirittura una **vera e propria dipendenza**. I meccanismi in gioco sono infatti quelli legati alla **gratificazione personale** nell’aver contribuito alla **conoscenza condivisa**, e magari ottenerne anche **riconoscimento pubblico**, perché no.
+
+Si tratta di ciò che **Clay Shirky** -uno dei più sagaci social media analyst- definisce come “[**surplus cognitivo**](http://www.ted.com/talks/view/lang/it//id/896)”, ovvero il bisogno di **dedicare buona parte del proprio tempo libero al bene comune**, anche come senso di appartenenza a delle comunità, appunto quelle degli _**osmers**_ e dei _**wikipediani**_.
