@@ -27,7 +27,7 @@ linkedin:
 <p>L’hackathon tuttavia non è un esperienza archiviata, in quanto i gruppi continueranno ad interagire tra loro per portare avanti quelle idee e quei progetti appena “nati”.</p>
 <p><strong>I report della giornata</strong></p>
 <ul>
-<li>Il racconto multimediale di <a href="https://storify.com/pietroblu/mhoo14">Pietro Blu Giandonato su Strofy</a></li>
+<li>Il racconto multimediale di <a href="https://storify.com/pietroblu/mhoo14">Pietro Blu Giandonato su Storify</a></li>
 <li>In TV sul TG RAI regionale <a href="http://www.youtube.com/watch?v=nVV89KsAXDg&amp;feature=youtu.be">(youtube)</a></li>
 <li>Articoli sui Magazine: <a href="http://www.rivistageomedia.it/201411107849/dati-geografici-evidenza/mhoo14-hackathon-app-e-open-street-map-per-gli-open-data-della-mobilita.html">Geo4all</a>, <a href="http://puglia-startapp-bari.blogautore.repubblica.it/2014/11/09/il-bus-arriva-tra-a-mhoo-amtab-e-hacker-programmano-la-nuova-mobilita-di-bari/">Repubblica.it-Bari</a>, <a href="http://www.pugliain.net/mobilita-bari-lamtab-canta-mio-dato-libero-mhoo/">PugliaIn</a>, <a href="http://corriereinnovazione.corriere.it/tech/2014/10-novembre-2014/due-mesi-open-data-bari-nascono-cinque-app-230511222102.shtml">Corriere Innovazione</a></li>
 <li>Articolo su MobilitàPalermo.org <a href="http://www.mobilitapalermo.org/mobpa/2014/11/11/palermo-bari-pezzi-di-sud-a-confronto-provano-a-muoversi/">"Il confronto Bari-Palermo"</a></li>
