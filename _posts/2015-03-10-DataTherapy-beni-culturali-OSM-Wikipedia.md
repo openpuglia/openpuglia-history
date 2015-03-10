@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Data Therapy e beni culturali con OSM e Wikipedia
