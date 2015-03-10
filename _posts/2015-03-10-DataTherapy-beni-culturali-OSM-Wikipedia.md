@@ -86,3 +86,14 @@ Quest’ultima opzione consente di salvare il dataset come Gist per poi **visual
 **Editare OpenStreetMap e curare gli articoli di Wikipedia, può suscitare grande coinvolgimento**, per alcuni può diventare addirittura una **vera e propria dipendenza**. I meccanismi in gioco sono infatti quelli legati alla **gratificazione personale** nell’aver contribuito alla **conoscenza condivisa**, e magari ottenerne anche **riconoscimento pubblico**, perché no.
 
 Si tratta di ciò che **Clay Shirky** -uno dei più sagaci social media analyst- definisce come “[**surplus cognitivo**](http://www.ted.com/talks/view/lang/it//id/896)”, ovvero il bisogno di **dedicare buona parte del proprio tempo libero al bene comune**, anche come senso di appartenenza a delle comunità, appunto quelle degli _**osmers**_ e dei _**wikipediani**_.
+
+Che siano animati semplicemente da grande partecipazione e coinvolgimento, o da una vera e propria dipendenza, **a osmers e wikipediani dovrebbe andare il ringraziamento di tutti noi**. Non solo perché utilizziamo i due servizi, ma soprattutto perché **questi due immensi repository di informazioni e dati aperti e liberi**, stanno diventando una **preziosa risorsa** per chiunque voglia utilizzarli per creare applicazioni anch’esse aperte e libere, o per fare business.
+
+**Organizzare hackathon dedicati all’uso di strumenti come OSM e Wikipedia**, dunque, non solo **ha un grande valore dal punto di vista didattico** e di **stimolo alla condivisione gratuita**, ma diventa anche **un’opportunità per far nascere idee innovative**. Perciò non dimenticate mai, se e quando sfrutterete OSM e Wikipedia per fare business, che **ci sarà sempre qualcuno da ringraziare**. Magari fatelo **restituendo a queste due comunità un po’ del vostro lavoro**, sempre in maniera aperta e libera. **Vi sentirete di certo meglio**.
+
+## Avremmo voluto ma…
+**Avevo preparato anche un’altra attività** basata su **Silk.co**, una interessante **piattaforma per la visualizzazione di dataset come mappe e grafici dinamici in pagine web**, ideale per fare **data journalism** o come strumento **facile da usare e molto intuitivo per scopi didattici**. Ecco un semplicissimo esempio costruito con i dati aperti del Comune di Bari http://barituristica.silk.co
+
+**Magari sarà al prossimo hackathon!**
+
+Se vi va, potete rivivere [“L’OpenDataDay a Bari #ODDIT15″ su Storify](http://storify.com/pietroblu/oddit15-a-bari)
