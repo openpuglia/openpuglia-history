@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openPuglia Blog</title>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/blog/</link>
+    <description>Civic Hacking Blog</description>
+    <pubDate>Sun, 08 Mar 2015 12:49:11 +0100</pubDate>
+    
+      <item>
+        <title>Open Data Day 2015, Storify di un giorno dedicato agli opendata</title>
+        <link>http://localhost:4000/blog/innovazione/2015/02/26/opendataday-storify.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/innovazione/2015/02/26/opendataday-storify.html</guid>
+        <description>
+</description>
+        <pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Open Data Day 2015</title>
+        <link>http://localhost:4000/blog/innovazione/2015/02/25/opendataday.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/innovazione/2015/02/25/opendataday.html</guid>
+        <description>&lt;p&gt;Più di cento iscritti provenienti da tutta la regione ed una nutrita partecipazione all’Open Data Day di Bari, sabato scorso nell’aula magna del Politecnico, tutti a confronto per migliorare con i dati.  &lt;/p&gt;
+
+&lt;p&gt;Dopo il saluto del Magnifico Rettore del Politecnico Prof. Eugenio Di Sciascio, Vincenzo Patruno dell’ ISTAT ha parlato di OpenPuglia, il progetto che vuole proporsi come piattaforma di riferimento per gli Open Data in Puglia, e del valore dei dati e della conoscenza aperta sia per  la trasparenza dell’azione della Pubblica Amministrazione che come opportunità di sviluppo dell’intera regione. Il gruppo di “civic hacker” che anima OpenPuglia e che ha contribuito all’organizzazione dell’Open Data Day vuole infatti far leva sulle potenzialità offerte dai dati e dalla conoscenza aperta per promuovere non solo la partecipazione dei cittadini ma per abilitare nuovi modelli di governance del territorio finalizzati a migliorare la qualità della vita e il benessere dei cittadini,  creando nuove opportunità di sviluppo economico per le imprese del territorio.&lt;/p&gt;
+
+&lt;p&gt;Ludovico Fontana del Corriere del Mezzogiorno ha moderato la prima tavola rotonda, aperta da Guglielmo Minervini, Assessore alle politiche giovanili, trasparenza e legalità della Regione Puglia, che ha discusso dell’importanza degli Open Data e dell’open knowledge come fattori abilitanti per la trasparenza ed in generale per la lotta alla corruzione ed all’illegalità. Minervini ha anche introdotto le strategie regionali sul fronte degli Open Data, con i prossimi appuntamenti dell’agenda regionale. &lt;/p&gt;
+
+&lt;p&gt;Giancarlo Di Capua di InnovaPuglia S.p.A., società controllata dalla Regione Puglia per la programmazione strategica a sostegno dell’innovazione ICT (Information and Communication Technology), ha quindi illustrato le strategie della Regione Puglia dal punto di vista dei processi per la liberazione dei dati, tra le difficoltà incontrate e gli obiettivi di lungo termine che puntano all’implementazione di un’infrastruttura che abiliti la pubblicazione dei Linked Open Data.&lt;/p&gt;
+
+&lt;p&gt;Tommaso Di Noia, professore associato del Politecnico di Bari, ha sottolineato come l’Università sia pronta a confrontarsi con le attuali sfide ed opportunità derivanti dalla crescente disponibilità di dati aperti, perché la Puglia vanta eccellenze nel campo dei Linked Data ed ha espresso il suo plauso alla convergenza tra le strategie regionali e le traiettorie di ricerca accademica avviate.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;it&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/TommasoDiNoia&quot;&gt;@TommasoDiNoia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/opendata?src=hash&quot;&gt;#opendata&lt;/a&gt; per estrarre conoscenza &lt;a href=&quot;https://twitter.com/SGIPuglia&quot;&gt;@SGIPuglia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/openpuglia?src=hash&quot;&gt;#openpuglia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/oddit15?src=hash&quot;&gt;#oddit15&lt;/a&gt; &lt;a href=&quot;http://t.co/mPimeuZY9k&quot;&gt;pic.twitter.com/mPimeuZY9k&lt;/a&gt;&lt;/p&gt;&amp;mdash; Giuseppe Zileni (@gzileni) &lt;a href=&quot;https://twitter.com/gzileni/status/569066060160339968&quot;&gt;21 Febbraio 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;In continuità con l’intervento precedente Giovanni Semeraro, professore associato dell’Università di Bari, ha richiamato l’attenzione sul contributo al processo di costruzione della conoscenza che deriva dall’analisi non solo dei dati ma anche del linguaggio, in quanto la maggior parte del cosiddetto User Generated Content (Web 2.0) è costituito da testo libero, come dimostra la capillarità con cui i Social Network si sono diffusi. È necessario pensare alla costruzione di una Social Machine che consenta al decisore pubblico di conoscere e monitorare in tempo reale l’opinione della comunità di riferimento e dei ‘portatori di interesse’. &lt;/p&gt;
+
+&lt;p&gt;Dopo una breve pausa, Lino Castrovilli di Pugliain.net ha moderato la seconda tavola rotonda, aperta da Massimo Zotti di Planetek Italia s.r.l. e rappresentante di SGI Puglia, l’articolazione regionale dell’associazione Stati Generali dell’Innovazione, ha portato il punto di vista delle aziende circa le opportunità di business che nascono dagli Open Data, e sulla necessità che la PA prosegua nel suo processo di liberazione dei dati intesi come materia prima, “nuovo petrolio dell’era digitale”, da usare per costruire valore. 
+Claudio Laricchia, Direttore del Settore Traffico e Mobilità Urbana del Comune di Bari, ha illustrato il processo di liberazione dei dati che il Comune sta portando avanti, raccontando anche le difficoltà che l’amministrazione comunale e l’AMTAB, l’Azienda Municipalizzata dei trasporti di Bari, incontrano quotidianamente nel processo di apertura dei dati dell’infomobilità. L’intervento ha messo in luce gli ostacoli e le complicazioni che la PA deve affontare nel gestire anche le nuove modalità di interazione con i cittadini e gli utenti, il ruolo dei social network, ed i rischi legati alla privacy. &lt;/p&gt;
+
+&lt;p&gt;Nell’intervento successivo Morena Ragone, giurista dell’Università degli Studi di Foggia e membro di SGI-Puglia e della rete Wister, ha ripreso il tema della privacy per mettere in evidenza le aree di attenzione che l’apertura dei dati non può trascurare, con riferimento anche alla salvaguardia dei diritti individuali degli operatori della PA. &lt;/p&gt;
+
+&lt;p&gt;Il ruolo dei singoli individui come generatori di informazioni e dati è stato ripreso da Alessandro Marescotti, Presidente di Peacelink, che ha presentato il suo progetto Green Tour che punta a misurare la qualità dell’aria con dispositivi portatili e confrontare i dati raccolti con quelli divulgati dall’ARPA Puglia, richiamando ancora una volta l’attenzione sull’importanza della partecipazione civica  per accrescere la consapevolezza e migliorare il benessere dei cittadini.&lt;/p&gt;
+
+&lt;p&gt;In conclusione Giuseppe Pirlo, professore associato del Dipartimento di Informatica dell’Università di Bari, ha rinnovando l’invito a lavorare insieme per superare le resistenze ed i ritardi nella liberazione dei dati e nello sfruttamento delle opportunità che da ciò derivano.&lt;/p&gt;
+
+&lt;p&gt;La sessione mattutina è stata quindi caratterizzata da interventi di buon livello, con Regione Puglia e Comune di Bari che hanno mostrato interesse e grande ricettività per gli obiettivi di OpenPuglia, che inizia ad essere riconosciuta come interlocutore per orientare le strategie regionali e comunali di liberazione dei dati. Le due tavole rotonde, mettendo a confronto esperti, giornalisti, cittadini ed esponenti di pubbliche amministrazioni, hanno creato i presupposti utili a lavorare assieme nell’immediato futuro. &lt;/p&gt;
+
+&lt;p&gt;Anche all’hackathon nel pomeriggio c’è stata una bella partecipazione, con buona presenza di sviluppatori e data analyst.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;it&quot;&gt;&lt;p&gt;I leader dell&amp;#39;hackathon &lt;a href=&quot;https://twitter.com/hashtag/odditba15?src=hash&quot;&gt;#odditba15&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/oddit15?src=hash&quot;&gt;#oddit15&lt;/a&gt; spiegano le track ai partecipanti: ambiente, cultura, Infomobility &lt;a href=&quot;http://t.co/2tysdm0Vki&quot;&gt;pic.twitter.com/2tysdm0Vki&lt;/a&gt;&lt;/p&gt;&amp;mdash; Vincenzo Patruno (@vincpatruno) &lt;a href=&quot;https://twitter.com/vincpatruno/status/569131838830194688&quot;&gt;21 Febbraio 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Tre gli ambiti applicativi delle diverse track: beni culturali, infomobilità e ambiente.&lt;/p&gt;
+
+&lt;p&gt;La track dedicata al collegamento dei beni culturali su Wikipedia con OpenStreetMap, animata da Pietro Blu Giandonato, ha visto la partecipazione di di persone con background diversi, che hanno usato strumenti innovativi per lavorare sulla banca dati di OSM, divertendosi. Il risultato è stato l’aggiornamento del dataset di OpenStreetMap relativo ai teatri pugliesi con il collegamento alle pagine di Wikipedia. I partecipanti hanno anche fatto pratica su overpass-turbo, tool web dedicato all’estrazione di dati mediante query basate sui tag degli oggetti presenti nel database geografico di OSM.
+I dati sui beni culturali sono stati protagonisti anche delle attività del gruppo, animato da Maria Paola Marzocca, che si è avvicinato alla pratica degli Linked Open Data. Tommaso Di Noia ha innanzitutto introdotto i Linked Open Data, sottolineando la loro importanza per estrarre semantica dai dati e come il collegamento fra dati appartenenti a fonti diversificate sia esso stesso un dato. Di seguito sono stati analizzati i dati disponibili sui Beni Culturali della Puglia e, partendo dai dati grezzi, i partecipanti hanno iniziato ad apprendere come produrre, praticamente, un dataset in formato Linked Open Data. Il gruppo è andato, quindi, “oltre” gli Open Data, scegliendo di massimizzare il valore dei dati riguardanti i monumenti del comune di Bari e trasformando i dati stessi in conoscenza al fine di favorire “il racconto” e la valorizzazione dei beni culturali.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;it&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/hashtag/paola?src=hash&quot;&gt;#paola&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/mazzocca?src=hash&quot;&gt;#mazzocca&lt;/a&gt; hackathon su link ed open data e beni culturali a &lt;a href=&quot;https://twitter.com/hashtag/odditba15?src=hash&quot;&gt;#odditba15&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/oddit15?src=hash&quot;&gt;#oddit15&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/openpuglia?src=hash&quot;&gt;#openpuglia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/SGIPuglia&quot;&gt;@sgipuglia&lt;/a&gt; &lt;a href=&quot;http://t.co/mLNbDkvowy&quot;&gt;pic.twitter.com/mLNbDkvowy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Vincenzo Patruno (@vincpatruno) &lt;a href=&quot;https://twitter.com/vincpatruno/status/569168905794555904&quot;&gt;21 Febbraio 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La track sull’infomobilità, animata da Michelantonio Trizio con il supporto del Google Developer Group Bari, ha visto invece avviare lo sviluppo di un’applicazione per segnalare aggressioni e danneggiamenti a bordo degli autobus dell’amtab. L’applicazione servirà anche per segnalare mezzi in avaria ed incidenti. Il gruppo di lavoro ha ideato le interfacce ed iniziato ad implementare la logica di interazione.&lt;/p&gt;
+
+&lt;p&gt;La track sull’ambiente infine ha lavorato partendo dall’analisi dei dati dell’ARPA, rappresentati nella piattaforma prototipale di OpenPuglia, presentata da Marco Fago con Giuseppe Zileni, e puntato alla creazione di una heatmap sui dati ARPA già raccolti, nonché all’individuazione di nuovi dataset sull’inquinamento ambientale in Puglia. La presenza di Vito Gallo,  docente di chimica del Politecnico ha permesso di interpretare meglio i dati e fare considerazioni interessanti sulle cause degli andamenti apparentemente anomali di alcuni valori (es. PM10 e Black Carb), che sono stati così ricondotti a variazioni dei metodi di calcolo da parte di ARPA e a variabili climatiche. Si è cercato anche di arricchire il dataset dei dati di inquinamento ambientale aggiungendo le coordinate spaziali delle centraline in modo da permetterne la rappresentazione su mappa. E’ emersa chiaramente l’esigenza di disporre in maniera più semplice di questi strumenti di analisi, accessibili magari tramite App web o per smartphone, per fornire servizi utili ad aumentare la conoscenza dei cittadini e supportare meglio i processi decisionali.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;it&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/gzileni&quot;&gt;@gzileni&lt;/a&gt; su ambiente e Infomobility a &lt;a href=&quot;https://twitter.com/hashtag/oddit15?src=hash&quot;&gt;#oddit15&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/openpuglia?src=hash&quot;&gt;#openpuglia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/odditba15?src=hash&quot;&gt;#odditba15&lt;/a&gt; &lt;a href=&quot;http://t.co/n5gUQOT0zI&quot;&gt;pic.twitter.com/n5gUQOT0zI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Vincenzo Patruno (@vincpatruno) &lt;a href=&quot;https://twitter.com/vincpatruno/status/569160033621180416&quot;&gt;21 Febbraio 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Il progetto OpenPuglia proseguirà nelle prossime settimane con il supporto della comunità pugliese e sarà presentato a Bologna in occasione dell’imminente raduno della comunità di Spaghetti Open Data: appuntamento quindi il 27 marzo, e sul &lt;a href=&quot;http://groups.google.com/group/open-data-in-action&quot;&gt;gruppo di discussione&lt;/a&gt; per contribuire al progetto e continuare a “divertirsi con i dati”.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Feb 2015 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Gli stati generali dell’innovazione A Bari, Servizio di I Move Puglia</title>
+        <link>http://localhost:4000/blog/innovazione/2015/01/26/innovazione-video.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/innovazione/2015/01/26/innovazione-video.html</guid>
+        <description>&lt;p&gt;Discutere e approfondire le politiche dell’innovazione, in ambito digitale e non solo, fra nuove filiere economiche, valorizzazione dei saperi locali, sostegno all’imprenditorialità giovanile. È stato l’obiettivo del convegno “Politiche dell’innovazione, terza missione e sviluppo del territorio” organizzato da Stati generali dell’innovazione e Università degli studi di Bari nell’ambito delle celebrazioni per i 90 anni dell’ateneo. L’evento si è tenuto lunedì 19 gennaio a Bari (ex Palazzo delle Poste, piazza Cesare Battisti, dalle 15 alle 19) e ha guardato in particolare al ruolo della piccola e media impresa e alla terza missione dell’Università, quella che punta a trasferire la ricerca e la conoscenza nelle filiere produttive per favorire la crescita economica, sociale e culturale delle comunità.
+&lt;!--more--&gt;
+I lavori sono stati aperti dalla prof.ssa Flavia Marzano, Presidente degli Stati Generali dell’Innovazione e dal prof. Giuseppe Pirlo, referente dell’Università degli Studi di Bari per l’Agenda Digitale e Smart City. A seguire il saluto del prof. Antonio Uricchio, Magnifico Rettore dell’Università di Bari.&lt;/p&gt;
+
+&lt;p&gt;Al convegno sono intervenuti tra gli altri: Loredana Capone (Assessore Regione Puglia), Alessandro Delli Noci (Assessore Comune di Lecce), Michele Emiliano (Assessore Comune San Severo), Alessandro Ambrosi (Presidente Camera di Commercio di Bari), Annibale D’Elia (Dirigente Regione Puglia), Giovanni Di Monde (Direttore INPS Regione Puglia), Massimo Dell’Erba (Presidente LASERINN), Leonardo Pellicani (Presidente Giovani Imprenditori Confartigianato Puglia), Mariella Pappalepore (Presidente della sezione Terziario Innovativo e Comunicazione di Confindustria Bari e Bat) &lt;/p&gt;
+
+&lt;p&gt;Due gli “open talk” paralleli previsti all’interno della manifestazione, introdotti da Giuseppe Iacono (Presidente dell’Istituto Italiano degli Open Data) e da Vincenzo Patruno (ISTAT):&lt;/p&gt;
+
+&lt;p&gt;“Come rendere più innovative le pmi” coordinato da Massimo Zotti (shaker) e Morena Ragone (rapporteuse)
+“Come facilitare il passaggio giovanile alla dimensione imprenditoriale innovativa” coordinato dal Prof. Giovanni Semeraro (shaker) e Milly Tucci (rapporteuse).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Jan 2015 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Gli stati generali dell’innovazione A Bari, sul Corriere del Mezzogiorno</title>
+        <link>http://localhost:4000/blog/innovazione/2015/01/21/innovazione-corriere.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/innovazione/2015/01/21/innovazione-corriere.html</guid>
+        <description>&lt;p&gt;Gli stati generali dell’innovazione A Bari la presentazione, video intervista su Corriere del Mezzogiorno, si parla di openPuglia.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Storify e Video dell&#39;evento &quot;Politiche dell&#39;innovazione, terza missione e sviluppo del territorio&quot;</title>
+        <link>http://localhost:4000/blog/innovazione/2015/01/18/storyfy-innovazione.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/innovazione/2015/01/18/storyfy-innovazione.html</guid>
+        <description>&lt;p&gt;Riviviamo lo storify, e la diretta streaming dell’evento Politiche dell’innovazione, terza missione e sviluppo del territorio presso l’Università di Bari.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jan 2015 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Sviluppo del territorio ed innovazione in diretta streaming</title>
+        <link>http://localhost:4000/blog/innovazione/2015/01/18/Innovazione-territorio.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/innovazione/2015/01/18/Innovazione-territorio.html</guid>
+        <description>&lt;p&gt;openPuglia sarà presente all’evento “Politiche dell’innovazione, terza missione e sviluppo del territorio” organizzato da Stati generali dell’innovazione e Università degli studi di Bari, per discutere ed approfondire le politiche dell’innovazione, non solo in ambito digitale, per valorizzare i saperi locali e sostegno all’imprenditorialità giovanile. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.statigeneralinnovazione.it/online/politiche-dellinnovazione-terza-missione-e-sviluppo-del-territorio/#sthash.VapRb1Bx.dpuf&quot;&gt;Qui l’articolo completo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;L’evento si terrà lunedì 19 gennaio a Bari (ex Palazzo delle Poste, piazza Cesare Battisti, dalle 15 alle 19), potete seguire la diretta streaming qui.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jan 2015 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Grande successo a Bari dell&#39; hackathon</title>
+        <link>http://localhost:4000/blog/smart%20mobility/opendata/openstreetmap/2014/11/14/grande-successo-a-bari-dellhackathon-mhoo14.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/smart%20mobility/opendata/openstreetmap/2014/11/14/grande-successo-a-bari-dellhackathon-mhoo14.html</guid>
+        <description>&lt;p&gt;Come avevamo già preannunciato, hacker e gente che voleva cimentarsi nel risolvere problemi di mobilità nella nostra città, si sono incontrati a Bari sabato 8 Novembre presso la Mediateca Regionale Pugliese producendo ottimi risultati.&lt;/p&gt;
+&lt;p&gt;Gli “OSMeristi” coordinati da Simone Cortesi, tra i fondatori di Open Street Map, si sono cimentati nel caricare all’interno della piattaforma, le fermate dei bus cittadini, così da renderle più facilmente rintracciabili da parte di un qualsiasi utente.&lt;/p&gt;
+&lt;p&gt;Gli “APPisti” invece hanno cercato di creare, coordinati da Michele Trizio di Qiris, delle applicazioni per smartphone e tablet con cui ottenere le informazioni di arrivo alle fermate dei mezzi di AMTAB , in modalità opendata. Fondamentale anche il loro aiuto per tradurre le informazioni delle tabelle di arrivo dei mezzi, treni e bus, delle Ferrovie Appulo Lucane e delle Ferrovie del Sud-Est in formato accessibile.&lt;/p&gt;
+&lt;p&gt;Interessantissima anche la tavola rotonda MYobility, guidata da Paola Buttiglione di aku bari e dai ragazzi di ciclospazio, dove sono emersi tantissimi spunti di riflessione, anche grazie alla presenza dell’  Ing. Claudio Laricchia dirigente del comune di Bari e del Dott. Arcangelo Scattaglia di Amtab, sul trasporto pubblico e su come aiutare gli amanti della bicicletta per muoversi sempre più agevolmente all’interno della nostra città.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;L’hackathon tuttavia non è un esperienza archiviata, in quanto i gruppi continueranno ad interagire tra loro per portare avanti quelle idee e quei progetti appena “nati”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I report della giornata&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il racconto multimediale di &lt;a href=&quot;https://storify.com/pietroblu/mhoo14&quot;&gt;Pietro Blu Giandonato su Strofy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In TV sul TG RAI regionale &lt;a href=&quot;http://www.youtube.com/watch?v=nVV89KsAXDg&amp;amp;feature=youtu.be&quot;&gt;(youtube)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Articoli sui Magazine: &lt;a href=&quot;http://www.rivistageomedia.it/201411107849/dati-geografici-evidenza/mhoo14-hackathon-app-e-open-street-map-per-gli-open-data-della-mobilita.html&quot;&gt;Geo4all&lt;/a&gt;, &lt;a href=&quot;http://puglia-startapp-bari.blogautore.repubblica.it/2014/11/09/il-bus-arriva-tra-a-mhoo-amtab-e-hacker-programmano-la-nuova-mobilita-di-bari/&quot;&gt;Repubblica.it-Bari&lt;/a&gt;, &lt;a href=&quot;http://www.pugliain.net/mobilita-bari-lamtab-canta-mio-dato-libero-mhoo/&quot;&gt;PugliaIn&lt;/a&gt;, &lt;a href=&quot;http://corriereinnovazione.corriere.it/tech/2014/10-novembre-2014/due-mesi-open-data-bari-nascono-cinque-app-230511222102.shtml&quot;&gt;Corriere Innovazione&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Articolo su MobilitàPalermo.org &lt;a href=&quot;http://www.mobilitapalermo.org/mobpa/2014/11/11/palermo-bari-pezzi-di-sud-a-confronto-provano-a-muoversi/&quot;&gt;&quot;Il confronto Bari-Palermo&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Il racconto della giornata &lt;a href=&quot;http://blog.planetek.it/2014/11/12/mhoo/&quot;&gt;sul nostro blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;La registrazione delle sessioni di apertura e finale &lt;a href=&quot;http://www.youtube.com/watch?v=l_Y8Ku8P7mA&amp;amp;feature=youtu.be&amp;amp;list=PLmvMHsTi-KkSBnx6cLGFLEEFXgO07pL0v&quot;&gt;(youtube)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 14 Nov 2014 00:00:00 +0100</pubDate>
+      </item>
+    
+      <item>
+        <title>Opendata della mobilita&#39;, un caso concreto, Comune di Bari/Amtab</title>
+        <link>http://localhost:4000/blog/smart%20mobility/opendata/2014/10/09/opendata-della-mobilita-un-caso-concreto-comune-di-bariamtab.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/smart%20mobility/opendata/2014/10/09/opendata-della-mobilita-un-caso-concreto-comune-di-bariamtab.html</guid>
+        <description>&lt;p&gt;Il webinar ha l’obiettivo di mostrare operativamente come sta liberando i dati di infomobilità il Comune di Bari e la sua Municipalizzata dei trasporti Amtab per favorirne il loro utilizzo nello sviluppo di app e servizi utili ai cittadini.&lt;/p&gt;
+&lt;p&gt;Il webinar si terrà Venerdì 31 Ottobre dalle 12.00 alle 13.00.&lt;/p&gt;
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Modera Massimo Zotti&lt;/p&gt;
+&lt;p&gt;Massimo Zotti: presentazione del progetto Semina&lt;/p&gt;
+&lt;p&gt;Michele Cagnetta/ Francesco Coletta: i servizi web degli opendata Amtab, stato dell’arte e future evoluzioni&lt;/p&gt;
+&lt;p&gt;Vincenzo Barbieri: Mhoo14 “Mobility Hackathon on Opendata 2014”&lt;/p&gt;
+&lt;p&gt;Tutti i partecipanti potranno intervenire liberamente nella sessione di Q&amp;amp;A.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Oct 2014 00:00:00 +0200</pubDate>
+      </item>
+    
+      <item>
+        <title>MOBILITY HACKATHON ON OPENDATA (Mhoo14)</title>
+        <link>http://localhost:4000/blog/smart%20mobility/opendata/openstreetmap/2014/10/03/mhoo14.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/smart%20mobility/opendata/openstreetmap/2014/10/03/mhoo14.html</guid>
+        <description>&lt;p&gt;Buone notizie per gli appassionati di mobilità sostenibile, opendata, appassionati di informatica e sviluppatori di app , ma anche semplici cittadini vogliosi di impegnarsi per migliorare il sistema di trasporto locale.&lt;/p&gt;
+&lt;p&gt;Vi presento &lt;strong&gt;Mhoo14&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;L’espressione tipicamente barese vi farà subito balzare alla mente le tipiche chiacchierate di quando a Bari si mangia un bel “allievo crudo” o un bel polpo appena “arrizzato”.&lt;/p&gt;
+&lt;p&gt;Mhoo14 è il nome che abbiamo dato all’incontro di sabato 8 novembre: un hackathon, un modo per unire la produzione di software, lo stimolo a liberalizzare nuovi dati, far emergere potenziali nuovi utilizzi dei dati liberi, il punto di vista di utenti e dei fruitori del trasporto pubblico urbano e il cosiddetto TPL (Trasporto Pubblico Locale), per lo sviluppo di applicazioni connesse alla mobilità.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;L&#39;hackathon prevede una sessione plenaria iniziale, tre sessioni parallele e una plenaria di chiusura e in fase di&lt;a href=&quot;https://registrazione-hackathon-mhoo14-semina.eventbrite.it&quot;&gt; iscrizione &lt;/a&gt;sarà necessario specificare a quale sessione si intende partecipare.&lt;/p&gt;
+&lt;p&gt;Durante la sessione plenaria di inizio mattina sarà condiviso il programma della giornata e saranno realizzato alcuni interventi focalizzati a: descrivere cosa è un opendata, quali sono i dati liberi nel Comune di Bari, quali sono e come sono organizzati e prodotti i dati della mobilità che sono stati liberalizzati. Sarà realizzata una breve presentazione di OpenStreet Map e del social street mapping. Sarà inoltre presentata una brevissima rassegna delle principali App che sono disponibili a livello internazionale e quelle sviluppate in modo specifico sui dati di Bari.&lt;/p&gt;
+&lt;p&gt;Dopo questa chiacchierata intorno alle 11.00 partiranno le tre sessioni in parallelo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;APPlichiamoci&lt;/strong&gt;: sessione tecnologica dedicata allo sviluppo di applicazioni con l’utilizzo degli opendata della mobilità di Bari&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MYobility&lt;/strong&gt;: sessione social per un confronto attivo su mobilità e dati liberi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OSMosi&lt;/strong&gt;: sessione tecnica dedicata a caricare all’interno di Open Street Map gli opendata della mobilità di Bari&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A chiusura della giornata saranno presentati in modo plenario i risultati delle sessioni parallele. Alla sessione conclusiva della giornata sarà presente un rappresentante del Comune di Bari che raccoglierà i risultati dell’hackathon.&lt;/p&gt;
+&lt;p&gt;Di seguito la descrizione delle sessioni parallele in programma:&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;APPlichiamoci&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il Comune di Bari ha liberalizzato i dati dell’AMTAB rendendo disponibile in modalità opendata. Questi opendata si riferiscono ai dati localizzazione e codifica delle fermate, linee servite per ogni fermata e relativi orari di arrivo degli autobus alla fermata distinti per linea sia come tempo pianificato che in tempo reale. Questi dati sono forniti con una licenza CC0 che ne consente il libero ed incondizionato utilizzo, anche per sviluppare applicazioni commerciali. Durante questa sessione di co-working si cercherà di sviluppare applicazioni utili a soddisfare le esigenze dei cittadini valorizzando al meglio questi dati. Durante la sessione saranno a disposizione i tecnici che hanno sviluppato i servizi web soap e rest che pubblicano questi opendata per condividere con i partecipanti le modalità migliori di accesso ai dati e il loro significato. Alla fine della sessione saranno rilasciate delle applicazioni. Per ogni applicazione sarà preparato un documento descrittivo che ne presenta le caratteristiche, i vantaggi e i benefici per gli utenti.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MYobility&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gli opendata sono una opportunità per migliorare la vita dei cittadini e, nel caso di quelli della mobilità hanno un evidente impatto sulla vita di tutti i giorni.&lt;/p&gt;
+&lt;p&gt;Rendere consapevoli i cittadini della esistenza di questa opportunità e individuare a livello locale quali sono i dati che sono disponibili e quali sarebbe utile rendere aperti per lo sviluppo di applicazioni è un elemento determinante lo sviluppo della smartness della città. I dati di telecontrollo dei bus del TPL possono essere integrati con i dati del traffico, la chiusura di strade, la disponibilità di parcheggi liberi, i dati del servizio di altri operatori di trasporto pubblico come i bus interurbani e le ferrovie, la disponibilità di biciclette del bike sharing, ecc.&lt;/p&gt;
+&lt;p&gt;Tutti questi dati devono essere forniti in modalità libera, con appropriati formati e modalità di interscambio. Durante questa sessione si proverà a stilare un elenco di dati, utili allo sviluppo di applicazioni di infomobilità, di cui richiedere la liberalizzazione. I risultati di questa sessione saranno sottoposti alla amministrazione Comunale di Bari e resi pubblici al fine di mettere a disposizione di altri soggetti i risultati ottenuti per poterli riusare e migliorare. In questo modo vorremmo creare un effetto cascata per cui, chiunque ha quei dati, si accorge dell’importanza di renderli disponibili a chiunque.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OSMosi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obiettivo di questa sessione è di caricare all’interno di Open Street Map gli opendata della mobilità liberati dal Comune di Bari. Le attività che si prevede di realizzare sono l’analisi del formato degli opendata dell’AMTAB e del formato di OSM per individuare la modalità ottimale per poterli caricare all’interno di OSM. Durante questa fase si valuterà anche la procedura ottimale per mantenere aggiornato OSM via via che gli opendata della mobilità vengono aggiornati.&lt;/p&gt;
+&lt;p&gt;Le attività si concluderanno caricando fisicamente i dati all’interno di OSM per poter rendere fruibili dati di localizzazione delle fermate, le linee servite e gli orari di transito dei bus alle fermate, sia pianificati che in real time.&lt;/p&gt;
+&lt;p&gt;Alla fine della sessione sarà stilato un report che riassuma i risultati ottenuti e le indicazioni delle problematiche che sono state affrontate e il modo in cui sono state risolte.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Oct 2014 00:00:00 +0200</pubDate>
+      </item>
+    
+      <item>
+        <title>Pubblicati gli opendata di AMTAB con il progetto “SEMINA”</title>
+        <link>http://localhost:4000/blog/smart%20mobility/open%20data/2014/09/22/pubblicati-gli-opendata-di-amtab-con-il-progetto-semina.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/smart%20mobility/open%20data/2014/09/22/pubblicati-gli-opendata-di-amtab-con-il-progetto-semina.html</guid>
+        <description>&lt;p&gt;Da oggi a Bari sono disponibili gli opendata dei dati, in tempo reale, di arrivo degli autobus alle fermate.&lt;/p&gt;
+&lt;p&gt;Questa notizia è stata data all’interno del Workshop del &lt;a href=&quot;http://www.opendatabari.it/2014/09/14/linfomobilita-a-bari/&quot;&gt;&lt;b&gt;Progetto SEMINA &lt;/b&gt; &lt;/a&gt;che si è tenuto venerdì scorso all’interno del padiglione del Comune di Bari durante la &lt;b&gt;Fiera del Levante&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;Due le notizie di sicuro interesse che sono emerse durante il workshop per il mondo degli opendata.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Prima notizia è la pubblicazione in modalità opendata dei dati di arrivo alle fermate dei Bus di Amtab, la società del Comune di Bari che gestisce il servizio di trasporto pubblico di Bari.&lt;!--?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; /--&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;La banca dati che è stata resa pubblica all’indirizzo &lt;a href=&quot;http://bari.opendata.planetek.it/&quot;&gt;http://bari.opendata.planetek.it/&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Gli opendata pubblicati, in questa prima fase, riguarderanno gli orari di arrivo degli autobus alla fermata distinti per linea. Il servizio prevede anche la pubblicazione delle informazioni relative alla localizzazione e codifica delle fermate e linee servite da ogni fermata.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Molto interessante la licenza d’uso che è stata adottata. In coerenza con le linee guida del Comune di bari è stata adottata la licenza CC0 che garantisce la libertà di utilizzo da parte degli utenti senza alcun vincolo con la possibilità di sviluppare anche applicazioni commerciali.&lt;/p&gt;
+&lt;p&gt;La seconda buona notizia è l’annuncio della organizzazione di un hackathon per favorire l’utilizzo di questi dati.&lt;/p&gt;
+&lt;p&gt;L’hackathon, organizzato dalla Planetek Italia, nell’ambito del progetto SEMINA, ha l’obiettivo di attivare una sessione di coworking sull’utilizzo dei dati mettendo intorno allo stesso tavolo i tecnici che hanno pubblicato i dati, gli sviluppatori che hanno voglia di utilizzarli e semplici cittadini che esprimono i loro desideri.&lt;/p&gt;
+&lt;p&gt;L’hackathon si terrà sabato 8 Novembre 2014 presso “MEDIATECA REGIONALE PUGLIESE ” in Via Giuseppe  Zanardelli n. 30-36 70125 Bari, dalle ore 9.00 alle ore 18.00.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Sep 2014 07:36:49 +0200</pubDate>
+      </item>
+    
+      <item>
+        <title>L’infomobilita&#39; a Bari</title>
+        <link>http://localhost:4000/blog/smart%20mobility/open%20data/2014/09/14/linfomobilita-a-bari.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/smart%20mobility/open%20data/2014/09/14/linfomobilita-a-bari.html</guid>
+        <description>&lt;p&gt;La mobilità urbana è un elemento fondamentale nella vita dei cittadini e incide sugli aspetti economici, sociali ed ambientali della Città.&lt;br /&gt;
+I dati relativi alla mobilità possono essere ricavati da molteplici fonti informative e forniscono un quadro completo ed aggiornato della situazione dei trasporti.&lt;br /&gt;
+Liberalizzare questi dati e consentire ai cittadini di poter fruire del loro contenuto informativo è una opportunità che può essere colta dalle amministrazioni pubbliche che li detengono.&lt;br /&gt;
+Il Comune di Bari ha avviato una iniziativa in tal senso attraverso la propria azienda di Trasporto Pubblico Locale Amtab. Il prossimo 22 settembre, in concomitanza con l’attivazione dell’orario invernale del servizio di trasporto locale&lt;a title=&quot;Comunicato del Comune di Bari&quot; href=&quot;http://www.comune.bari.it/portal/page/portal/bari/comune/comunicati?_itemid=10301&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt; sarà reso pubblico&lt;/strong&gt;&lt;/a&gt; il dato di arrivo degli autobus alle fermate desunto dal sistema di telecontrollo in tempo reale dei mezzi.&lt;br /&gt;
+
+&lt;!--more--&gt;
+
+Questi dati saranno pubblicati in modalità &lt;em&gt;&lt;strong&gt;opendata&lt;/strong&gt;&lt;/em&gt;.&lt;br /&gt;
+Questa iniziativa rientra nell’ambito del progetto &lt;a href=&quot;http://livinglabs.regione.puglia.it&quot; target=&quot;_blank&quot;&gt;Living Lab&lt;/a&gt;  &lt;a href=&quot;http://www.progettosemina.it/&quot; target=&quot;_blank&quot;&gt;Semina&lt;/a&gt;, finanziato dalla Regione Puglia, che vede il Comune di Bari ed Amtab come utenti pilota per l’attivazione di servizi innovativi di infomobilità.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Il progetto Semina per il Comune di Bari&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le nuove strategie di cui abbiamo appena parlato si concretizzano attraverso il Living lab SEMINA ( Sistemi Evoluti per la Mobilità Intelligente in Network urbani Agili ) il quale nasce dall’esigenza del comune di Bari d’integrare le diverse soluzioni per la mobilità avviate in questi anni nell’ambito del programma Bari Smart City, in un sistema integrato di monitoraggio della mobilità sostenibile e intelligente di Bari.&lt;/p&gt;
+&lt;p&gt;Tale fabbisogno si inquadra in un più ampio progetto del Comune per la realizzazione di un “urban control center” (UCC) finalizzato all’analisi di tutte le dimensioni della smartness della città di Bari.&lt;/p&gt;
+&lt;p&gt;Il progetto è composto di tre parti principali, dove nella prima sarà sviluppata la rete di monitoraggio del traffico e degli spostamenti nella città utilizzando informazioni “indirette” provenienti da mezzi pubblici, dalle biciclette e/o coinvolgendo i privati cittadini e a tal proposito sarà sviluppato un sistema innovativo di bike-sharing per la rilevazione dei dati sulla ciclabilità.&lt;/p&gt;
+&lt;p&gt;Un secondo livello riguarda il sistema di acquisizione e analisi dei dati raccolti per monitorare in tempo reale il traffico cittadino e valutare le abitudini di spostamento con i mezzi pubblici e con bicicletta.&lt;/p&gt;
+&lt;p&gt;Un terzo livello riguarda le modalità di interazione del sistema con l’utenza finale (comune di Bari) e il cittadino. Una piattaforma web verrà messa a disposizione della collettività per condividere queste informazioni.&lt;/p&gt;
+&lt;p&gt;Infine saranno sviluppate applicazioni specifiche per supportare il cittadino nella formulazione di piani di mobilità individuale.&lt;/p&gt;
+&lt;p&gt;I vantaggi di questo progetto sono sicuramente di enorme utilità alla cittadinanza, basti pensare a tutto ciò che un controllo continuo del traffico può portare. Ad esempio una situazione di criticità stradale potrà essere rilevata in tempo reale dalla polizia municipale che potrà intervenire tempestivamente. Si potrà avere una maggiore precisione nel fare stime previsionali sui tempi di arrivo di una determinata linea bus ad una fermata allo scopo di gestire meglio il tempo di attesa di un utente privato.Infine la sensoristica montata sulle biciclette potrà dare informazioni utilissime anche sullo stato dell’ambiente rilevando parametri di criticità ambientale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pubblicazione opendata dei dati Amtab&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I dati di Amtab saranno resi disponibili in modalità opendata a partire dal 22 settembre 2014 in concomitanza con l’attivazione dell’orario invernale. Le modalità di pubblicazione saranno presentate durante il focus group del progetto Semina che si terra venerdì 19 settembre alle 15.00 presso la Fiera del Levante, padiglione 169.&lt;/p&gt;
+&lt;p&gt;Durante il focus group sarà lanciato un Hackathon, che sarà realizzato ad ottobre, dedicato agli sviluppatori di app che vogliono utilizzare questi dati.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 00:00:00 +0200</pubDate>
+      </item>
+    
+      <item>
+        <title>Europeana Eagle Project, “un ponte digitale verso il mondo antico”. Breve storia di una buona pratica.</title>
+        <link>http://localhost:4000/blog/opendata/2014/05/24/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/opendata/2014/05/24/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica.html</guid>
+        <description>&lt;p dir=&quot;ltr&quot;&gt;(Repost da &lt;a href=&quot;http://www.openpompei.it/&quot;&gt;OpenPompei&lt;/a&gt;)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Lo scorso 16 Maggio Palazzo Massimo alle Terme ha ospitato l’incontro “Buone pratiche e progetti innovativi per la promozione dei beni culturali: EAGLE &amp;amp; Wiki Loves Monuments”.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Nella &lt;a href=&quot;http://www.eagle-network.eu/eagle-wiki-loves-monuments-event/&quot;&gt;descrizione generale dell’evento&lt;/a&gt; si legge:&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;“Nel campo dei beni culturali, le opportunità offerte dalle tecnologie per la conservazione e la fruizione del patrimonio culturale hanno aperto scenari di grande interesse che però richiedono atteggiamenti nuovi da parte di tutti gli attori coinvolti: enti pubblici, imprese private, operatori del settore”.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Il progetto Eagle esemplifica molto bene questi “atteggiamenti nuovi” che consentono di potenziare la funzione pubblica e sociale delle discipline storiche, tra cui l’archeologia e di conseguenza l’epigrafia, usando le nuove tecnologie dell’informazione e della comunicazione come agile veicolo di contenuti, stimolando la nascita di nuove prospettive di ricerca e facilitandone anche un riuso creativo, non solo a fini didattici.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;La storia del progetto (in breve).&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Eagle sin dalla nascita ha avuto un obiettivo assai ambizioso: “&lt;a href=&quot;http://www.eagle-eagle.it/Italiano/present_it.htm&quot;&gt;la registrazione di tutte le iscrizioni greche e latine anteriori al VII sec. d.C. secondo la miglior edizione esistente (eventualmente con ulteriori controlli ed emendamenti), corredate da alcuni altri dati fondamentali e, ove possibile, da una loro immagine&lt;/a&gt;”. Il progetto rappresenta il punto di arrivo dei lavori per la creazione di un’unica banca dati generale dell&#39;epigrafia antica, avviata nel 1997 dall’&lt;a href=&quot;http://www.aiegl.org/&quot;&gt;AIGLE&lt;/a&gt; (Associazione Internazionale di Epigrafia Greca e Latina). Nel 2003 esso si evolve in una “federazione” di banche dati epigrafiche, costituita inizialmente fra tre Univesità: &lt;a href=&quot;http://www.edb.uniba.it/&quot;&gt;Bari&lt;/a&gt;, &lt;a href=&quot;http://www.edr-edr.it/Italiano/index_it.php&quot;&gt;Roma&lt;/a&gt; ed &lt;a href=&quot;http://edh-www.adw.uni-heidelberg.de/home&quot;&gt;Heidelberg&lt;/a&gt; cui si è aggiunta nel 2009 &lt;a href=&quot;http://eda-bea.es/pub/contact.php&quot;&gt;Alcalà&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Nel 2005 viene stipulata una &lt;a href=&quot;http://www.edr-edr.it/Documenti/Accordo%20MIBAC-EAGLE.pdf&quot;&gt;convenzione&lt;/a&gt; con il Ministero dei Beni Culturali per la messa in rete delle riproduzioni fotografiche relative a iscrizioni antiche dell&#39;Italia che sono edite e che sono o saranno in suo possesso. Nello stesso anno Eagle è stato inserito tra le &lt;a href=&quot;http://www.lincei.it/modules.php?name=Content&amp;amp;pa=showpage&amp;amp;pid=64&quot;&gt;linee di ricerca&lt;/a&gt; del Centro Linceo Interdisciplinare “Beniamino Segre”.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Europeana Eagle Project&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Lo scorso anno è stato avviato un progetto di collaborazione tra Eagle ed Europeana, finanziato dalla Commissione Europea nell&#39;ambito del programma di sostegno alle ICT, con lo scopo di fornire un unico portale di facile consultazione per le oltre 1,5 milioni di epigrafi ubicate nei diversi paesi dell&#39;Unione Europea.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;L’Eagle network si è esteso anche a Wikimedia Italia ed al CNR. Il CNR, in particolar modo, sta sviluppando un sistema di riconoscimento per immagini alla base anche di un’applicazione mobile, che consentirà tale riconoscimento tramite smartphone. Un’altra applicazione che sarà disponibile per gli utenti è destinata ad attività di storytelling, per assemblare narrazioni a partire dai documenti epigrafici. Wikimedia Commons sarà la piattaforma che consentirà agli utenti di arricchire i metadati dei testi epigrafici: ad esempio con le traduzioni multilingue dei testi epigrafici stessi.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Non è necessario soffermarsi sulla tecnologia che supporta il progetto, ma più sull’idea alla base del progetto: l’epigrafia è una disciplina che può essere studiata, presentata e condivisa da vari utenti. Tale idea è messa in pratica attraverso “atteggiamenti nuovi”:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- condivisione&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Ognuna delle banche dati federate (&lt;a href=&quot;http://www.uni-heidelberg.de/institute/sonst/adw/edh/&quot;&gt;EDH&lt;/a&gt;, &lt;a href=&quot;http://www.edr-edr.it/&quot;&gt;EDR&lt;/a&gt;, &lt;a href=&quot;http://www.edb.uniba.it/&quot;&gt;EDB&lt;/a&gt; e &lt;a href=&quot;http://www.eda-bea.es/&quot;&gt;HE&lt;/a&gt;) si è dimostrata capace della più ampia collaborazione. Il MIBACT, tramite apposita convenzione, ha eliminato l’ostacolo giuridico posto dal Codice dei Beni Culturali e del Paesaggio per la pubblicazione delle immagini dei beni culturali.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;La collaborazione internazionale ha trovato poi riscontro nel finanziamento da parte della Commissione Europea, condiviso da istituzioni di dodici Paesi (Italia, Germania, Spagna, Austria, Regno Unito, Romania, Ungheria, Croazia, Slovenia, Francia, Grecia, Belgio).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- uso dell’intelligenza collettiva&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Eagle nasce dalla condivisione di saperi interdisciplinari: alla sua realizzazione hanno collaborato e collaborano informatici ed epigrafisti, epigrafisti classici e cristiani, storici ed epigrafisti di tutto il mondo. L’estensione del network a Wikimedia Italia è un allargamento ulteriore della base di partecipazione ad un progetto di costruzione di una parte della memoria storica collettiva: colligite fragmenta ne pereant (Giovenale, 6, 12).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- costruzione di una nuova narrazione storica&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Tale coinvolgimento di un pubblico di non addetti ai lavori sarà potenziato anche dalla creazione di strumenti, quali quelli utili all’attività di storytelling, che daranno a questa disciplina storica un rinnovato valore pubblico e sociale, stimolando la curiosità verso il passato, creando strumenti agili di facilitazione e distribuzione di contenuti assai complessi, quali quelli veicolati dalle epigrafi. La necessità di costruire nuove narrazioni storiche era stata già discussa &lt;a href=&quot;http://www.openpompei.it/2013/06/03/quattro-chiacchiere-sulla-necessita-di-una-nuova-narrazione-archeologica/&quot;&gt;su questo blog&lt;/a&gt; relativamente a Pompei e come correttivo allo “scollamento tra cittadini e patrimonio archeologico”.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;em&gt;In fotografia insegna bilingue (in latino ed in greco) di bottega di lapicida (CIL X, 7296): “qui si compongono e si incidono iscrizioni per edifici sacri e pubblici”&lt;/em&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Paola Liliana Buttiglione&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 May 2014 00:00:00 +0200</pubDate>
+      </item>
+    
+      <item>
+        <title>Tutti i luoghi del mito, geografia di San Nicola</title>
+        <link>http://localhost:4000/blog/opendata/openstreetmap/2014/05/06/tutti-i-luoghi-del-mito-geografia-di-san-nicola.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/opendata/openstreetmap/2014/05/06/tutti-i-luoghi-del-mito-geografia-di-san-nicola.html</guid>
+        <description>&lt;p&gt;&lt;iframe src=&quot;http://maps.cortesi.com/san-nicola-map/&quot; height=&quot;400&quot; width=&quot;650&quot; seamless=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Chi è stato san Nicola e soprattutto come è riuscito a diventare Babbo Natale, iniziando una concorrenza spietata ai Magi e alla Befana, infine battendoli?&lt;/p&gt;
+&lt;p&gt;La risposta è nelle tre palle dorate sul vangelo che il nostro Patrono tiene con la sinistra in tutte le statue e i quadri e i santini che lo raffigurano.&lt;/p&gt;
+&lt;p&gt;Che cosa sono queste tre palle dorate? Centrano qualcosa con le renne?&lt;/p&gt;
+&lt;p&gt;Rispondiamo a queste domande ripercorrendo la storia di san Nicola.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&#39;esordio in Turchia: Santo subito!&lt;/strong&gt;&lt;br /&gt;
+
+&lt;!--more--&gt;
+
+Alla fine del III secolo Nicola nasce e cresce a &lt;a href=&quot;http://it.wikipedia.org/wiki/Myra&quot;&gt;Myra&lt;/a&gt;, piccola città dove tutto é subito pettegolezzo: voci di strada dicono che il suo vicino di casa vuole fare prostituire le figlie per ricavare denaro per il loro matrimonio. Col favore delle tenebre Nicola lancia un sacchetto di monete d’oro in casa del povero vicino attraverso la finestra aperta. Così il primo matrimonio s&#39;ha da fare. Nicola ripete il gesto ed il padre sposa le altre due figlie.&lt;/p&gt;
+&lt;p&gt;Da subito dunque Nicola esordisce sulla scena nel ruolo di portatore di doni, ma è solo l’inizio: diventa prima vescovo della sua città e viene poi proclamato santo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&#39;uomo che mette d&#39;accordo ortodossi, cattolici e protestanti.&lt;/strong&gt;&lt;br /&gt;
+Il culto di san Nicola ha una grande diffusione, come potete vedere voi stessi dal grande numero di chiese a lui dedicate segnalate in mappa. Una star ecumenica, protettore di zitelle, di marinai e - in modo particolare - dei bambini. Ogni 6 dicembre i piccoli Europei si svegliavano felici perché san Nicola aveva portato loro doni.&lt;br /&gt;
+Nel mondo ortodosso san Nicola non teme confronti, neppure con santi come &lt;a href=&quot;http://it.wikipedia.org/wiki/San_Giorgio&quot;&gt;Giorgio&lt;/a&gt;, Teodoro, Demetrio o Sergio.&lt;br /&gt;
+Benché restio al culto dei Santi, anche il mondo protestante strizza da sempre l&#39;occhio verso il culto di san Nicola: nemmeno l&#39;austero &lt;a href=&quot;http://it.wikipedia.org/wiki/Martin_Lutero&quot;&gt;Lutero&lt;/a&gt; ha potuto nulla contro l&#39;eroe dei bambini.&lt;/p&gt;
+&lt;p&gt;Anzi, sono proprio navi di olandesi protestanti a portare il mito di san Nicola nel nuovo mondo: l&#39;America.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verso “Santa Claus”: le renne, la barba.&lt;/strong&gt;&lt;br /&gt;
+Quando nel 1613 gli olandesi fondarono New Amsterdam (ora New York) portarono con sé tutte le loro tradizioni ed anche la devozione al nostro Patrono.&lt;br /&gt;
+Nicola entra prepotentemente nel folklore americano.&lt;br /&gt;
+Nel 1821 viene dato alle stampe un libro illustrato, “&lt;a href=&quot;http://urbanlegends.about.com/od/historical/a/clement_c_moore.htm&quot;&gt;L’Amico dei Bambini&lt;/a&gt;”, in cui si legge:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Il vecchio Santa Claus con grande gioia&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;guida la sua renna (...)&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;per portare a te ogni anno i suoi regali&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Questa è la prima attestazione scritta dell’uso delle renne.&lt;br /&gt;
+Nel successivo 1822 l&#39;immagine di san Nicola subisce un’ulteriore trasformazione.&lt;br /&gt;
+Clement Clarke Moore nella sua poesia “&lt;a href=&quot;http://it.wikipedia.org/wiki/A_Visit_from_St._Nicholas&quot;&gt;La Visita di S. Nicola&lt;/a&gt;” scrive:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Era la notte prima di Natale (...)&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Le calze erano appese al camino con cura,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;nella speranza che S. Nicola sarebbe arrivato presto (…),&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;una slitta in miniatura tirata da otto piccole renne&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;con un piccolo vecchio alla guida, così amabile e agile&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;capii subito: quello dev’essere San Nicola (...)&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;la barba era bianca come la neve (…),&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;aveva una faccia larga, e un po &#39;di pancia rotonda (…)&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Era grassottello e paffuto, proprio un vecchio allegro elfo.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;La svolta verso Santa Claus è ormai conclusa, manca solo l’ultimo dettaglio: l’abito rosso bordato di pelliccia bianca. Questo è diventato il suo look universalmente noto a partire dal 1931, quando la Coca Cola inizia ad utilizzare l&#39;immagine di Santa Claus per &lt;a href=&quot;https://www.google.it/search?q=coca+cola+babbo+natale&amp;amp;rlz=1C1CHMO_itIT548IT548&amp;amp;espv=210&amp;amp;es_sm=122&amp;amp;tbm=isch&amp;amp;tbo=u&amp;amp;source=univ&amp;amp;sa=X&amp;amp;ei=DfegUuPdAcnxygOK84HYAg&amp;amp;ved=0CDMQsAQ&amp;amp;biw=1517&amp;amp;bih=713&amp;amp;dpr=0.9&quot;&gt;le campagne pubblicitarie&lt;/a&gt; della sua celebre bevanda. Le immagini sono su tutti i rotocalchi dell’epoca!&lt;br /&gt;
+Purtroppo non si è raggiunta ancora unanimità riguardo il paese di residenza di Santa Claus. I bambini del Nord America sostengono che Nicola abiti al &lt;a href=&quot;http://it.wikipedia.org/wiki/Polo_nord&quot;&gt;Polo Nord&lt;/a&gt;, quelli d’Europa invece in &lt;a href=&quot;http://it.wikipedia.org/wiki/Lapponia&quot;&gt;Lapponia&lt;/a&gt;, esattamente sul &lt;a href=&quot;http://it.wikipedia.org/wiki/Circolo_polare_artico&quot;&gt;Circolo Polare Artico&lt;/a&gt;. I norvegesi collocano il suo ufficio postale a &lt;a href=&quot;http://it.wikipedia.org/wiki/Dr%C3%B8bak&quot;&gt;Drøbak&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abbiamo voluto riappropriarci del nostro Patrono costruendo questa mappa, georeferenziando tutti i posti a Lui dedicati sulla Terra. Ovviamente molti luoghi sono ancora da aggiungere: chiediamo dunque il vostro piccolo contributo. Basta twittare &lt;strong&gt;#geosannicola&lt;/strong&gt; per inviarci le vostre segnalazioni!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+      </item>
+    
+      <item>
+        <title>Le invasioni Digitali</title>
+        <link>http://localhost:4000/blog/opendata/2014/04/25/le-invasioni-digitali.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/opendata/2014/04/25/le-invasioni-digitali.html</guid>
+        <description>&lt;p dir=&quot;ltr&quot; style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;em&gt;&quot;Crediamo&lt;/em&gt;&lt;em&gt; che l’Arte diventi Conoscenza quando viene condivisa&quot;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot; style=&quot;text-align: center;&quot;&gt;(dal &lt;a href=&quot;http://www.invasionidigitali.it/it/il_manifesto.php&quot;&gt;manifesto di Invasioni Digitali&lt;/a&gt;)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Domenica 4 Maggio &lt;a href=&quot;http://www.associazionearta.it/Associazione_ArTA_aps/Associazione_ArTA_aps_-_Archeologia_Turismo_Arte.html&quot;&gt;ArTA&lt;/a&gt;, &lt;a href=&quot;http://www.ifigurantidisannicola.eu/&quot;&gt;I Figuranti di San Nicola&lt;/a&gt;, &lt;a href=&quot;http://www.pugliaccessibile.it/index.php?lang=it&quot;&gt;Pugliaccessibile&lt;/a&gt;, &lt;a href=&quot;http://www.livingheritage.it/index.php?option=com_content&amp;amp;view=article&amp;amp;id=133&amp;amp;Itemid=470&quot;&gt;Living Heritage&lt;/a&gt; e &lt;a href=&quot;http://www.akubari.it/&quot;&gt;AkuBari&lt;/a&gt; vi danno appuntamento alle ore 10.30 a Piazza dell&#39;Odegitria per l&#39;invasione digitale della città vecchia di Bari (&lt;a href=&quot;https://www.facebook.com/events/243908065815077/?fref=ts&quot;&gt;qui&lt;/a&gt; il link per iscriversi all&#39;evento).&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;L’iniziativa si inserisce all&#39;interno di una serie di eventi denominati  “&lt;a href=&quot;http://www.invasionidigitali.it/it&quot;&gt;Invasioni Digitali&lt;/a&gt;” (la cui seconda edizione è partita lo scorso 24 Aprile e si concluderà il 4 maggio 2014) aventi come obiettivo quello di liberare la cultura e valorizzare il patrimonio artistico e paesaggistico italiano attraverso i social media: gli invasori, armati di smartphone e tablet, si recano in pace in un &quot;luogo della cultura&quot; (nell&#39;accezione più larga possibile: nel &lt;a href=&quot;http://www.invasionidigitali.it/it/calendario2014&quot;&gt;calendario delle invasioni programmate&lt;/a&gt; sono elencati musei, &lt;a href=&quot;http://www.invasionidigitali.it/it/invasionedigitale/invasione-grazia-deledda#.U1qP3PmSwiw&quot;&gt;percorsi dedicati a scrittori&lt;/a&gt;,&lt;a href=&quot;http://www.invasionidigitali.it/it/invasionedigitale/suggestioni-notturne#.U1qQlvmSwiw&quot;&gt; interi centri storici&lt;/a&gt;, &lt;a href=&quot;http://www.invasionidigitali.it/it/invasionedigitale/farmerpride-trekking-nel-parco-cinque-terre#.U1qQ1PmSwiw&quot;&gt;parchi&lt;/a&gt; etc.). 
+
+&lt;!--more--&gt;
+
+Una volta radunatisi, condividono la propria esperienza culturale attraverso fotografie e riprese amatoriali diffuse sui proprio profili social e segnalate attraverso hashtag specifici (quelli ufficiali dell&#39;intera manifestazione sono &lt;em&gt;&lt;strong&gt;#invasionidigitali&lt;/strong&gt; &lt;strong&gt;#digitalinvasions&lt;/strong&gt;&lt;/em&gt;)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;em&gt;&quot;Immortalarci accanto ad una statua o un dipinto famoso, fotografare un bambino che guarda stupito la ricostruzione di un tirranosauro, filmare la nostra gita al castello non sono soltanto gesti narcisistici che soddisfano la nostra voglia di essere al centro dell’attenzione e mostrare agli altri ciò di cui siamo orgogliosi, ma sono anche e soprattutto dei modi per imprimere nella nostra memoria degli attimi preziosi di vita passata a stretto contatto con l’arte, la storia, la bellezza del nostro Paese. E condividere quegli attimi attraverso una fotografia o un video postati sul web è uno strumento potente per invitare gli altri ˗ chi era lontano, chi non conosce, chi non c’è mai stato ˗ a condividere quel momento e percepirne, sia pure a distanza, la felicità, la sorpresa, l’entusiasmo, l’unicità.&quot; &lt;/em&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Queste parole di Giovanna Baldasssare, una delle organizzatrici dell&#39;evento barese, in un &lt;a href=&quot;http://heykiddo.it/extra/approfondimento/archeologando/invasioni-digitali/&quot;&gt;post&lt;/a&gt; scritto qualche giorno fa rendono molto bene l&#39;obiettivo prioritario del progetto: &lt;strong&gt;condividere&lt;/strong&gt;.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;L&#39;invasione digitale di Bari si articolerà attraverso due incontri in luoghi simbolo della memoria collettiva: il &lt;a href=&quot;http://www.arcidiocesibaribitonto.it/curia/museo-diocesano&quot;&gt;Museo Diocesano&lt;/a&gt;, dove agli invasori verrà offerta una visita guidata da parte di ArTa, e la chiesa di San Michele Arcangelo, dove la visita sarà animata dalla presenza di sei figuranti di San Nicola in veste di benedettini.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot; style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Un patrimonio culturale per lo più muto&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;em&gt;Il piccolo principe se ne andò a rivedere le rose.&lt;/em&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;em&gt;&quot;Voi siete belle, ma siete vuote. Non si può morire per voi. Certamente, un qualsiasi passante crederebbe che la mia rosa vi rassomigli, ma lei, lei sola, è più importante di tutte voi, perché è lei che ho innaffiata. Perché è lei che ho messa sotto la campana di vetro. Perché è lei che ho riparata col paravento. Perché su di lei ho uccisi i bruchi (salvo i due o tre per le farfalle). Perché é lei che ho ascoltato lamentarsi o vantarsi, o anche qualche volta tacere. Perché è la mia rosa&quot;. &lt;/em&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;em&gt;&lt;/em&gt;(Antoine de Saint-Exupéry&lt;em&gt;, Il piccolo principe&lt;/em&gt;)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Cosa rende speciale la rosa per il Piccolo Principe? Semplicemente l&#39;averla conosciuta.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Forse è questa la chiave di lettura per comprendere il disinteresse nei confronti di un patrimonio culturale di incredibile valore:&lt;strong&gt; la mancata conoscenza.&lt;/strong&gt; Se migliorassero gli strumenti per la sua conoscenza, quel patrimonio inizierebbe ad essere sentito come patrimonio comune e condiviso e questo ne consentirebbe anche una valorizzazione più efficace.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;em&gt;Il nostro patrimonio culturale è per lo più muto&lt;/em&gt;: le carenze nella strategia comunicativa derivano anche dall&#39;assenza di un adeguato apparato informativo. Nello scorso ottobre i reportage di Manlio Lilli e Flavia Amabile sulle pagine de La Stampa hanno sollevato il problema dei “monumenti fantasma” a Roma. E i monumenti fantasma in questione erano addirittura il&lt;a href=&quot;http://www.lastampa.it/2013/09/26/multimedia/italia/i-monumenti-fantasma-la-prima-puntata-NnA1n1V1w3lkCu2CvPoROL/pagina.html&quot;&gt; Mausoleo di Augusto&lt;/a&gt;, l&lt;a href=&quot;http://www.lastampa.it/2013/10/03/multimedia/italia/lateneo-di-adriano-riemerso-per-caso-a13kq2QceGVIT6tGlEGFFI/pagina.html&quot;&gt;’Ateneo di Adriano&lt;/a&gt;, la &lt;a href=&quot;http://www.lastampa.it/2013/10/10/multimedia/italia/cera-una-volta-una-fontana-al-colosseo-HPdHM5ne2iEpQOfuA2S1sO/pagina.html?page=4&quot;&gt;Meta Sudans&lt;/a&gt;, le &lt;a href=&quot;http://www.lastampa.it/2013/10/17/multimedia/italia/le-terme-di-traiano-alloggio-dei-disperati-OX4VFqb3xPtPsDgoxvGvFL/pagina.html&quot;&gt;Terme di Traiano&lt;/a&gt;!&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Ma vi sono esempi eccellenti anche per la nostra città: un&lt;a href=&quot;http://bari.repubblica.it/cronaca/2013/11/01/news/santa_chiara-70001614/&quot;&gt; articolo&lt;/a&gt; comparso su Repubblica Bari lo scorso  novembre denunciava la necessità di urgenti restauri per le tele conservate nella &lt;a href=&quot;http://it.wikipedia.org/wiki/Chiesa_di_Santa_Chiara_(Bari)&quot;&gt;chiesa di santa Chiara&lt;/a&gt; - dipinti rinascimentali, di scuola veneta o napoletana, alcuni tentativi di imitazione caravaggesca, altri ispirati al Barocci, altri ancora firmati da Nicola Gliri ed Andrea Miglionico. Questo tesoro d’arte fece gola persino a Napoleone Bonaparte e avrebbe potuto essere esposto al Louvre: una commissione di esperti aveva selezionato alcune fra queste tele, apponendo loro un timbro di ceralacca (ancora visibile). Gioacchino Murat morì e le tele non partirono più: sono ancora lì, in una chiesa che la maggior parte dei giorni è chiusa al pubblico, e necessiterebbero di un restauro.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Le prime due riflessioni cui si è indotti sono:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;le tele avrebbero avuto più fortuna a Parigi&lt;/li&gt;
+&lt;li&gt;le tele sono condannate alla clausura&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir=&quot;ltr&quot;&gt;che suscitano a loro volta questa domanda: perché non liberare quelle tele, consentendo a tutti, anche ad una casalinga del South Dakota, di poter godere della loro bellezza?&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;La rivoluzione digitale e i nuovi modelli di fruizione&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;em&gt;&quot;Crediamo che Internet sia in grado di innescare nuove modalità di gestione, conservazione, tutela, comunicazione e valorizzazione delle nostre risorse&quot;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;(dal &lt;a href=&quot;http://www.invasionidigitali.it/it/il_manifesto.php&quot;&gt;manifesto di Invasioni Digitali&lt;/a&gt;)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;I Beni Culturali sono beni comuni.&lt;/strong&gt; Le Soprintendenze hanno però goduto di un controllo quasi totale sui beni culturali custoditi, sia grazie a vincoli fisici (accesso agli spazi espositivi) sia grazie a vincoli tecnici e legali (mediante licenze per la diffusione di fotografie analogiche di BBCC).&lt;/p&gt;
+&lt;p&gt; La riproduzione dei beni culturali di proprietà statale è soggetta, già in base alla Legge Rochey (n. 4 del 14 gennaio 1993), ad autorizzazione da parte del Soprintendente e al pagamento di un canone, tranne per i motivi di studio e l&#39;uso personale.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Gli artt. 108 e 109 del Decreto Legislativo 22 gennaio 2004, n. 42, &quot;Codice dei Beni Culturali e del Paesaggio, e relativi decreti attuativi, non modificano nella sostanza la norma precedente.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Le principali motivazioni da parte delle istituzioni culturali nel limitare l’accesso e il riuso dei beni culturali in pubblico dominio sono la possibilità di estrarre valore economico dalla distribuzione dei contenuti culturali e dall&#39;offerta commerciale di prodotti ad essi collegati ed il rischio di utilizzo improprio dei contenuti e di “diluizione” del valore culturale (rischio maggiore per le opere più popolari o studiate, ma meno per oggetti o parti di collezioni museali che sono sottoutilizzati o di cui mancano accurate descrizioni e ricerche, come per esempio le tele di Santa Chiara a Bari).&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Ci si rende dunque facilmente conto che se non si vuole innescare un circolo vizioso di decrescita della fruizione del patrimonio culturale bisogna che simili logiche economicistiche e protezionistiche vengano contrastate e superate.&lt;/p&gt;
+&lt;p&gt;Le conseguenze pratiche di una situazione del genere sono varie e soprattutto creano dei forti limiti al riutilizzo di immagini sul web. La rivoluzione digitale e la rete internet hanno fatto emergere nuove forme di utilizzo delle immagini dei beni culturali che richiedono senza dubbio più rapide forme di licenziamento dei contenuti. Per esempio, vi può essere l’estrema difficoltà (se non l’impossibilità, almeno teorica) di pubblicare su Wikipedia foto di oggetti custoditi nei nostri musei: nel 2007 il Polo Museale Fiorentino, richiamandosi al Codice, ha chiesto e ottenuto la rimozione da Wikipedia delle immagini (tendenzialmente a bassa risoluzione) relative alle opere conservate nei propri musei, in quanto nessuno aveva ottenuto esplicita autorizzazione alla loro pubblicazione.&lt;/p&gt;
+&lt;p&gt;Malgrado le stringenti norme esistenti, i beni culturali vengono (illecitamente) riprodotti e migliaia di immagini circolano sulla rete.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;La digitalizzazione delle immagini e la rete internet offrono oggi nuove opportunità per la fruizione dei Beni Culturali, attraverso un accesso più ampio e attraverso l’uso e il riuso dei contenuti digitali. Si pensi, ad esempio, alle potenzialità delle reti degli utenti nel condividere, aggregare e collegare contenuti. Dal momento che quasi tutte le collezioni museali detengono solo una piccola parte dell’opera di ogni singolo artista, periodo storico o movimento culturale, la possibilità di mettere insieme nello spazio virtuale le riproduzioni digitali dei beni culturali associate con informazioni condivise e generate dagli utenti può senza dubbio migliorare l’esperienza dei fruitori delle collezioni museali.&lt;/p&gt;
+&lt;p&gt;L’esigenza di modificare le regole che finora hanno limitato la diffusione e il riutilizzo del patrimonio culturale digitalizzato si inserisce nel più ampio dibattito sull&#39;apertura e sul riuso di dati e contenuti digitalizzati in possesso del settore pubblico. L’esigenza di dati aperti nasce proprio dal riconoscimento che, grazie alla rivoluzione digitale, mettere a disposizione le informazioni relative al settore pubblico in modo trasparente, efficace e non discriminatorio può favorire la creazione di servizi online innovativi che generano potenziale valore economico e qualità sociale. Lo stesso può valere quindi per i musei con la riproduzione digitale delle loro collezioni.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Il punto di partenza potrebbe essere quello di considerare i beni culturali come “beni comuni” anche nei diritti connessi, dunque anche nella loro riproduzione, qualora non vi sia scopo di lucro. La libera circolazione delle immagini dei beni culturali crea valore (anche in senso economico/monetario) per le istituzioni culturali stesse, aumentandone la visibilità e la reputazione.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot; style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;&quot;Crediamo nella semplificazione delle norme per l&#39;accesso e riuso dei dati dei Beni Culturali per incentivarne la digitalizzazione&quot;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot; style=&quot;text-align: center;&quot;&gt;(dal &lt;a href=&quot;http://www.invasionidigitali.it/it/il_manifesto.php&quot;&gt;manifesto di Invasioni Digitali&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt; I nove emendamenti al Codice dei Beni Culturali e del Paesaggio proposti dall&#39;iniziativa &lt;a href=&quot;http://www.beniculturaliaperti.it/&quot;&gt;Beni Culturali Aperti &lt;/a&gt;vogliono eliminare il più possibile l’ostacolo dell’autorizzazione per l’accesso ai dati dei Beni Culturali. Essi sono relativi ad alcuni articoli del Codice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; emendamenti Artt. 12, 15 e 17: rilascio dei dati relativi al nostro patrimonio culturale in formato aperto, per puntare a forme di promozione della conoscenza del nostro enorme patrimonio, per esempio attraverso piattaforme come Europeana o Wikipedia&lt;/li&gt;
+&lt;li&gt;emendamento Art. 12: rilascio in formato aperto dell’archivio informatico delle schede descrittive del patrimonio immobiliare di proprietà dello Stato&lt;/li&gt;
+&lt;li&gt;emendamento Art. 15: rilascio in formato aperto dell’elenco dei beni per cui è stata fatta la dichiarazione di interesse&lt;/li&gt;
+&lt;li&gt;emendamento Art. 17: rilascio in formato aperto del Catalogo Nazionale dei Beni Culturali&lt;/li&gt;
+&lt;li&gt;emendamenti relativi agli artt. 107 e 108 (riproduzione dei beni culturali e canoni di concessioni e riproduzione): la riproduzione di un bene culturale potrebbe essere automaticamente e gratuitamente autorizzata (con semplificazione burocratica notevole), per fini non commerciali o per fini commerciali qualora l’autore accetti di mettere a disposizione della collettività l’immagine, con licenza &lt;a href=&quot;http://it.wikipedia.org/wiki/Licenze_Creative_Commons&quot;&gt;CC by SA&lt;/a&gt;. La ratio della norma sarebbe la seguente: chi riproduce un bene culturale per scopi industriali o commerciali deve richiedere un’autorizzazione esplicita e compensare l’istituzione che lo ha custodito (anche) a suo vantaggio; chi, invece, mette a disposizione dell’intera collettività la riproduzione può essere esentato dal pagamento (e dai costi e perdite di tempo legate ad una formale richiesta di autorizzazione), in considerazione di ciò che restituisce alla collettività&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir=&quot;ltr&quot; style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;&quot;Crediamo che il riuso dei dati e delle immagini dell&#39;arte attraverso le piattaforme che mettono in connessione fra loro visitatori, esperti, studiosi, appassionati, possa attivare la produzione di contenuti personali UGC (User Generated Content), a beneficio di processi co-creativi di valore culturale ed economico per tutti&quot;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot; style=&quot;text-align: center;&quot;&gt;(dal &lt;a href=&quot;http://www.invasionidigitali.it/it/il_manifesto.php&quot;&gt;manifesto di Invasioni Digitali&lt;/a&gt;)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;em&gt;I grandi amano le cifre. Quando voi gli parlate di un nuovo amico, mai si interessano alle cose essenziali. Non si domandano mai: «Qual è il tono della sua voce? Quali sono i suoi giochi preferiti? Fa collezione di farfalle?» Ma vi domandano: «Che età ha? Quanti fratelli? Quanto pesa? Quanto guadagna suo padre?» Allora soltanto credono di conoscerlo.&lt;/em&gt;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;(Antoine de Saint-Exupéry&lt;em&gt;, Il piccolo principe&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I benefici della condivisione dei dati dei BBCC sarebbero molti:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;riduzione dei costi di pubblicazione online dei dati&lt;/strong&gt;, siano essi foto, video o documenti. Abbiamo archivi semi abbandonati, con un patrimonio inestimato che non viene usato in nessun modo. Liberare dai diritti d’immagine le riproduzioni delle opere ne permetterebbe l’uso commerciale e da esso la possibilità di far riscoprire opere e artisti che pochi conoscono&lt;/li&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;visibilità&lt;/strong&gt;, altrimenti quasi azzerata: è il caso della maggior parte delle chiese dei nostri centri storici, spesso tutte escluse dai circuiti turistici perché non conosciute. Qual è il patrimonio culturale che si sceglie di visitare? Non certo quello di cui non è possibile nemmeno sapere in che cosa consiste! Un’&lt;a href=&quot;http://inchieste.repubblica.it/it/repubblica/rep-it/2013/11/23/news/brutti_e_inospitali_ecco_come_sono_i_musei_italiani_sul_web-71719031/&quot;&gt;inchiesta&lt;/a&gt; sulle pagine de La Repubblica ha rivelato come i musei  italiani sul web appaiono brutti ed inospitali: le interfacce grafiche sono vecchie e statiche, manca lo sfruttamento delle risorse commerciali: &lt;em&gt;“la Venere di Botticelli e il David di Michelangelo non trovano la giusta valorizzazione commerciale rispetto alle opere del Rijks Museum di Amsterdam e della Tate Modern Gallery di Londra, dove si arriva anche a ritagliare una sezione di quadro per ottenere una cover per smartphone” . &lt;/em&gt;Perché dunque non consentire il riuso dei dati digitali per rinnovare le nostre vetrine elettroniche?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;condivisione dei dati in maniera scalare&lt;/strong&gt;, partendo dai dati di opere d&#39;archivio, non visibili al pubblico e quindi non soggette a bigliettazione. Va preservata la possibilità che le istituzioni culturali, che conservano beni di particolare pregio, possano ricavare utili dalle riproduzioni che possano avere notevole valore commerciale.&lt;/li&gt;
+&lt;li&gt;una buona digitalizzazione degli archivi incentiverebbe gli studi dall’estero, gettando delle ipotesi di ricerca che poi potrebbero essere approfondite in loco (&lt;strong&gt;turismo accademico&lt;/strong&gt;). Magari l’esposizione degli archivi potrebbe generare un’importazione di cervelli” dopo le grandi fughe!&lt;/li&gt;
+&lt;li&gt;la nascita di un settore di mercato legato alle immagini e ai dati di un determinato archivio ne rinnova la possibilità di raccogliere fondi. Nel caso di opere che necessitano di interventi di restauro a quale facoltoso mecenate non farebbe piacere contribuirvi nella consapevolezza che chiunque riuserà una foto di quel restauro vi troverà affiancato il proprio nome?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;&quot;Crediamo nella necessità di confronto fra tutti gli attori dei beni culturali perché le idee non rimangano isolate ma possano circolare e ispirare altri a migliorarle e renderle operative perché solo dallo scambio di conoscenze deriva altra conoscenza. Siamo convinti che questo scambio non debba limitarsi ai confini di un paese ma possa, e debba, essere internazionale&quot; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;(dal &lt;a href=&quot;http://www.invasionidigitali.it/it/il_manifesto.php&quot;&gt;manifesto di Invasioni Digitali&lt;/a&gt;)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Alcune esperienze pioneristiche nella produzione, condivisione e riutilizzo dei contenuti digitali derivati da BBCC in pubblico dominio sono basate sulla messa a disposizione sul Web di immagini digitali  mediante &lt;a href=&quot;http://it.wikipedia.org/wiki/Licenze_Creative_Commons&quot;&gt;licenze Creative Commons&lt;/a&gt; da parte delle stesse istituzioni culturali, che permettono agli utenti di riutilizzare e distribuire le immagini con l’obbligo di attribuzione e condivisione allo stesso modo (CC by SA).&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Un primo gruppo di esperienze si basa sull’iniziativa delle stesse istituzioni culturali a rilasciare immagini digitali:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.flickr.com/commons/institutions/&quot;&gt;The Commons di Flickr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://it.wikipedia.org/wiki/Progetto:WikiAfrica/Share_Your_Knowledge&quot;&gt;Share Your Knowledge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://search.getty.edu/gateway/search?q=&amp;amp;cat=highlight&amp;amp;f=%22Open+Content+Images%22&amp;amp;rows=10&amp;amp;srt=a&amp;amp;dir=s&amp;amp;pg=1&quot;&gt;rilascio aperto di 4600 immagini ad alta definizione&lt;/a&gt; promosso dal Getty Museum che, pur non essendo pubblico, ha così attivato una campagna di riscoperta del proprio archivio&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://it.wikipedia.org/wiki/Progetto:GLAM/Progetti&quot;&gt;progetto GLAM - gallerie, librerie, archivi, musei&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Un secondo gruppo di esperienze non si basa direttamente sull&#39;iniziativa delle istituzioni culturali a rilasciare immagini digitali, ma sulla creazione e condivisione di contenuti generati dagli utenti: esempio &lt;a href=&quot;http://www.wikilovesmonuments.org/&quot;&gt;Wiki loves Monuments&lt;/a&gt; ed &lt;a href=&quot;http://www.invasionidigitali.it/it&quot;&gt;Invasioni Digitali&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; Un&#39;altro esempio di creazione e condivisione di contenuti generati dagli utenti è la stessa &lt;strong&gt;Wikipedia&lt;/strong&gt;.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Cercando la voce su Wikipedia relativa alla &lt;a href=&quot;http://it.wikipedia.org/wiki/Cattedrale_di_San_Sabino&quot;&gt;Cattedrale di Bari&lt;/a&gt; ed andando nella sezione &lt;a href=&quot;http://it.wikipedia.org/w/index.php?title=Cattedrale_di_San_Sabino&amp;amp;action=history&quot;&gt;cronologia&lt;/a&gt; è possibile visualizzare i nomi di tutti gli utenti che hanno dato il loro contributo ad arricchire questa voce volontariamente.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Nella sezione multimediale di wiki, &lt;a href=&quot;http://commons.wikimedia.org/wiki/Category:Cathedral_(Bari)?uselang=it&quot;&gt;WikiCommons&lt;/a&gt;, sono state caricate già alcune foto. O ancora, ci sono pubblicazioni sulla nostra Cattedrale che potrebbero essere condivise su WikiSource, la biblioteca di Wikipedia, condivisione che aiuterebbe a catalogare e mettere in relazione con altre pubblicazioni relative.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Sono molte le strade che ciascuno di noi può decidere di intraprendere per contribuire alla valorizzazione e diffusione del nostro patrimonio culturale! L&#39;invasione programmata per Bari domenica 4 Maggio potrebbe essere un buon inizio! Accorrete numerosi!&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Paola Liliana Buttiglione&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 00:00:00 +0200</pubDate>
+      </item>
+    
+      <item>
+        <title>Open Data Day Bari 2014, un piccolo racconto della giornata</title>
+        <link>http://localhost:4000/blog/civic%20hacking/opendata/2014/03/08/open-data-day-bari-2014-un-piccolo-racconto-della-giornata.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/civic%20hacking/opendata/2014/03/08/open-data-day-bari-2014-un-piccolo-racconto-della-giornata.html</guid>
+        <description>&lt;p&gt;Con un pubblico pienissimo di giovani studenti, ecco com&#39;è andata la giornata barese dedicata agli Open Data.&lt;/p&gt;
+&lt;p&gt;La sessione plenaria mattutina è  introdotta da Michelantonio Trizio (&lt;a href=&quot;http://www.openbsk.it/&quot;&gt;Associazione OpenBSK&lt;/a&gt;) e moderata dal giornalista Ludovico Fontana presso le strutture del Cineporto della Fiera del Levante. Con la diretta streaming curata da Gianluca Lattanzi la giornata si apre con l’intervento di &lt;strong&gt;Angelo Cassano&lt;/strong&gt; e &lt;strong&gt;Francesco Colaianni&lt;/strong&gt;, studenti presso l’Istituto Panetti di Bari e ideatori della app “&lt;strong&gt;Bari Smart&lt;/strong&gt;”, applicazione che riusa i dati del trasporto pubblico urbano e che fornisce un valido supporto all’utilizzo dei mezzi pubblici attraverso smartphone. Poi è la volta di &lt;strong&gt;Vincenzo Patruno,&lt;/strong&gt; Istat. I dati ci fanno conoscere quello che accade all’interno delle nostre città e dei nostri territori. Quello che sta venendo fuori è che le iniziative Open Data assieme alle politiche dei soggetti che tradizionalmente producono dati (Istat e Sistan) ma anche assieme ai dati satellitari, ai dati prodotti da sensori e a quelli generati dalle community e alle iniziative di civic hacking.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.opendatabari.it/wp-content/uploads/2014/03/odd_07.png&quot;&gt;&lt;img class=&quot;wp-image-280 aligncenter&quot; alt=&quot;odd_07&quot; src=&quot;assets/odd_07-300x199.png&quot; width=&quot;300&quot; height=&quot;199&quot; /&gt;&lt;/a&gt;Gianni Semeraro&lt;/strong&gt;, Università di Bari, a nome del gruppo di lavoro costituito da Cataldo Musto, Francesco Antonino e Luigiantonio Ionio, presenta la “&lt;a href=&quot;http://www.voxdiritti.it/?p=2353&quot;&gt;Mappa Italiana dell’Intolleranza&lt;/a&gt;”, un progetto di VOX-Osservatorio italiano in collaborazione con l’Università degli Studi di Bari “Aldo Moro”, l’Università “La Sapienza di Roma” e l’Università degli Studi di Milano sui diritti che, se finanziata, permetterà di mappare in maniera geolocalizzata il livello di intolleranza nel nostro Paese (omofobia, razzismo, violenza sulle donne e disabilità) attraverso l’uso di parole chiave in Twitter.&lt;/p&gt;
+&lt;p&gt;E’ la volta dei beni culturali. Ne parlano &lt;strong&gt;Morena Ragone&lt;/strong&gt; (&lt;a href=&quot;http://www.statigeneralinnovazione.it/online/&quot;&gt;Stati Generali dell’Innovazione&lt;/a&gt;) che racconta l’esperienza di &lt;a href=&quot;http://www.beniculturaliaperti.it/&quot;&gt;beniculturaliaperti.it &lt;/a&gt;e a seguire quello di &lt;strong&gt;Mauro Bruno&lt;/strong&gt;, Regione Puglia che parla dei beni culturali materiali e immateriali della Regione e di vari progetti in corso, tra cui quello della realizzazione della “digital library” regionale. &lt;strong&gt;Massimo Zotti &lt;/strong&gt;(Planetek)sottolinea l’importanza dell’apertura dei dati satellitari tramite cui è possibile misurare cosa accade nelle nostre città e nelle aree metropolitane e ricavare dati che vanno a supporto della definizione delle strategie e delle politiche del territorio, come accade ad esempio con i dati relativi al consumo del suolo. E per la Regione Puglia parla anche &lt;strong&gt;Annibale D’Elia&lt;/strong&gt; che racconta l’esperienza di “&lt;a href=&quot;http://liberailbene.regione.puglia.it/&quot;&gt;Libera il Bene&lt;/a&gt;” per quanto riguarda i dati relativi ai beni e ai progetti di riuso dei beni confiscati alla malavita organizzata.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In chiusura di mattinata è il momento dello Speaker corner coordinato da &lt;strong&gt;Gianvito Rutigliano&lt;/strong&gt;. Apre &lt;strong&gt;Nicoletta Riccardi&lt;/strong&gt; (&lt;a href=&quot;http://www.actionaid.it/&quot;&gt;Action Aid&lt;/a&gt;) raccontando il progetto di “&lt;a href=&quot;https://www.facebook.com/events/779704115380263/?ref=22&quot;&gt;Il diritto di cambiare dal basso&lt;/a&gt;” da poco concluso in alcune scuole superiori di Bari; sono proprio &lt;strong&gt;gli studenti degli Istituti Romanazzi e Santarella&lt;/strong&gt; che hanno seguito il progetto , che illustrano le ricerche (e le proposte!) fatte sul miglioramento del sistema di mobilità urbana della città. eccoli dal vivo:&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.youtube.com/embed/x3RuvlWDlwc&quot; height=&quot;315&quot; width=&quot;560&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Ma non solo . “Open data” alla mano anche gli studenti dell’istituto Giulio Cesare scelti per il progetto “&lt;a href=&quot;http://www.ascuoladiopencoesione.it/2013/&quot;&gt;A Scuola di Open Coesione&lt;/a&gt;” proseguiranno con la ricerca sulla mobilità barese e  su altro, in particolare inquinamento marino e misurazione degli sprechi, come preannunciato dalla Community Manager del progetto. A seguire chiude l&#39;angolo degli speaker il prof. &lt;strong&gt;Giuseppe Pirlo&lt;/strong&gt; (Università di Bari) che presenta una &lt;em&gt;call for paper&lt;/em&gt; su dati aperti ed agenda digitale per una pubblicazione di cui è curatore .&lt;/p&gt;
+&lt;p&gt;Nella sessione pomeridiana partono tre track parallele: un monithon, un mapping party ed un datalab.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.opendatabari.it/wp-content/uploads/2014/03/odd_12.png&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Francesco Paolo Lovergine,&lt;/strong&gt; ricercatore CNR, membro della Free Software Foundation Europe e storico mapper pugliese coordina la track dedicata a &lt;a href=&quot;http://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt;. Dopo un breve briefing il gruppo si è spostato tra i padiglioni della Fiera del levante per rilevare sul campo waypoint su edifici precedentemente ricalcati in aula attraverso Josm, l’editor standard di OSM.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paola Liliana Buttiglione e Chiara Ciociola&lt;/strong&gt; co-organizzatrici dell’Open Data Day barese mediante l’associazione &lt;a href=&quot;http://akubari.it&quot;&gt;AkuBari&lt;/a&gt;, coordinano un &lt;a href=&quot;http://monithon.it/&quot;&gt;Monithon&lt;/a&gt;, track sul monitoraggio civico di progetti finanziati con i fondi europei e presenti sul sito Opencoesione.gov.it. L&#39;iniziativa si è svolta in contemporanea  in tantissimi città d&#39;Italia con diversi argomenti e focus d&#39;interesse. Il tema scelto dai monithoners baresi è stato quello dei finanziamenti del PON R&amp;amp;C (Programma Operativo Nazionale &quot;Ricerca e Competitività&quot;).&lt;/p&gt;
+&lt;p&gt;Il datalab gestito da &lt;strong&gt;Michelantonio Trizio&lt;/strong&gt; (Associazione &lt;a href=&quot;http://www.openbsk.it/&quot;&gt;OpenBSK&lt;/a&gt;) vede la partecipazione di una dozzina di persone che si sono cimentate con i dati sulle agevolazioni erogate dalla Regione Puglia e reperibili nella sezione trasparenza del suo sito. I ragazzi, informatici, ma anche medici e laureati in lettere, cercano di ripulire il dataset e trovare nuovi dati per arricchirlo tramite tecniche di web scraping.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.opendatabari.it/wp-content/uploads/2014/03/odd_12.png&quot;&gt;&lt;img alt=&quot;odd_12&quot; src=&quot;assets/odd_12-300x199.png&quot; width=&quot;300&quot; height=&quot;199&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I prossimi passi? Aspettiamo proposte dalla nostra community!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scriveteci alla  mailing list:&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt; open-data-in-action@googlegroups.com&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Mar 2014 00:00:00 +0100</pubDate>
+      </item>
+    
+  </channel>
+</rss>
