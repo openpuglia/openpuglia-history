@@ -20,7 +20,7 @@ twitter: http://www.twitter.com/vincpatruno
 linkedin: 
 ---
 
-![data academy](../img/data_academy_1.gif)
+![data_academy](img/data_academy_1.gif)
 
 Le due realtà territoriali emergenti in Italia in tema di Open Data, Open Government e trasparenza si raccontano in una sessione condivisa alla [Data Academy](smartcityexhibition.it/it/news/data-academy-sce2015-open-data-citt%C3%A0-competenze-fare-e-riusare) di  Smart City Exhibition 
 
