@@ -8,8 +8,9 @@ storify:
 categories:
 - Educational
 tags:
-- #sgipuglia
-- #openpuglia
+- #openstreetmap
+- #wikipedia
+- #hackathon
 - #oddit15
 status: publish
 type: post
@@ -17,7 +18,7 @@ published: true
 author: Pietro Blu Giandonato
 email: p.giandonato@gmail.com
 twitter: http://www.twitter.com/pietroblu
-linkedin: 
+linkedin: http://it.linkedin.com/in/pietroblu
 ---
 
 La prima volta che ho sentito parlare di [#datatherapy](https://prezi.com/rwknn0wzqrh0/data-therapy-data-day/) è stato nella nostra lista di **OpenPuglia**, grazie a **Paola Liliana Buttiglione**, che [ne aveva già scritto su OpenPompei](http://www.openpompei.it/2015/02/25/progetto-europeo-ariadne-lo-stvdivm-come-archaeological-data-therapy/).
