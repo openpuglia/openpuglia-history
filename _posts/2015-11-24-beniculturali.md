@@ -41,3 +41,5 @@ In particolare il Museo civico ha l’ambizione di essere il luogo dove conserva
 
 [Partecipa anche tu Venerdì 18 dicembre 2015 dalle 13:30 alle 18:00](https://www.eventbrite.it/e/biglietti-scopriamo-i-luoghi-della-cultura-con-gli-opendata-19682972300)
 
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.it/tickets-external?eid=19682972300&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/r/etckt">Con tecnologia Eventbrite</a></div></div>
+
