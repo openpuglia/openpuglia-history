@@ -5,7 +5,63 @@
     <atom:link href="http://opendatabari.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://opendatabari.github.io/blog/</link>
     <description>Civic Hacking Blog</description>
-    <pubDate>Tue, 24 Nov 2015 15:25:18 +0100</pubDate>
+    <pubDate>Mon, 07 Dec 2015 09:41:11 +0100</pubDate>
+    
+      <item>
+        <title>Pillole di WikiData</title>
+        <link>http://opendatabari.github.io/blog/educational/2015/12/07/pillole.html</link>
+        <guid isPermaLink="true">http://opendatabari.github.io/blog/educational/2015/12/07/pillole.html</guid>
+        <description>&lt;p&gt;Come già annunciato in questo &lt;a href=&quot;http://opendatabari.github.io/blog/educational/2015/11/24/beniculturali.html&quot;&gt;post&lt;/a&gt;, la comunità OpenPuglia si prepara al lavoro di costruzione di un dataset “ad alta potenzialità” sui luoghi della cultura della regione a partire dal DB unico MiBACT. Una parte della giornata del prossimo 18 dicembre ci vedrà impegnati nel portare in Wikidata alcuni dei dati che ci apprestiamo a raccogliere, normalizzare ed integrare: in realtà la comunità è già alacremente a lavoro su ciò (vi aggiorneremo a breve e più dettagliatamente). Intanto che le tastiere si scaldano, vi proponiamo una breve pillola su Wikidata, che cosa è, a cosa serve, come si usa. Tempo di lettura previsto: 3 minuti!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://opendatabari.github.io//blog/img/logo-wikidata.png&quot; alt=&quot;logo wikidata&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Logo di Wikidata: esso riproduce la scritta “wiki” in codice Morse (che corrisponde a • – –  • •  – • –  • •) mantenendo i colori del logo della Wikimedia Foundation.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cosa--ed-a-cosa-serve&quot;&gt;Cosa è ed a cosa serve&lt;/h3&gt;
+&lt;p&gt;Wikidata è un database costruito con il software &lt;a href=&quot;http://wikiba.se/&quot;&gt;Wikibase&lt;/a&gt;, consultabile e modificabile da utenti umani e da &lt;a href=&quot;https://it.wikipedia.org/wiki/Bot&quot;&gt;bot&lt;/a&gt;, che fornisce dati strutturati ed univoci (come ad esempio le date di nascita o le coordinate geografiche etc.) agli altri progetti della &lt;a href=&quot;https://it.wikipedia.org/wiki/Wikimedia_Foundation&quot;&gt;Wikimedia Foundation&lt;/a&gt; (come ad esempio &lt;a href=&quot;https://it.wikipedia.org/wiki/Wikipedia&quot;&gt;Wikipedia&lt;/a&gt;) e consente loro un accesso centralizzato. Esattamente come fa Wikimedia Commons con i file multimediali. 
+In estrema sintesi Wikidata è un &lt;a href=&quot;https://it.wikipedia.org/wiki/Base_di_dati_orientata_al_documento&quot;&gt;database orientato al documento&lt;/a&gt; e focalizzato intorno ad oggetti definiti “items”, Ciascun item ha una propria pagina dove sono riuniti tutti i dati riferitigli ed è identificato per mezzo di un codice univoco, costituito dalla lettera Q seguita da cifre numeriche (es. Q###) o da un &lt;a href=&quot;https://www.wikidata.org/wiki/Wikidata:Glossary#Sitelink&quot;&gt;link&lt;/a&gt; ad una pagina esterna o da una combinazione fra &lt;a href=&quot;https://www.wikidata.org/wiki/Wikidata:Glossary#Label&quot;&gt;label&lt;/a&gt; (= etichetta) e &lt;a href=&quot;https://www.wikidata.org/wiki/Wikidata:Glossary#Description&quot;&gt;descrizione&lt;/a&gt;. Il codice univoco Q### è utile a collegare le differenti versioni linguistiche di uno stesso item ed è dunque utile più alle “macchine” che agli “uomini”.
+Si sta così costruendo una sorta di tassonomia su cui strutturare i progetti Wikimedia, in cui la classi sono gli items, i livelli gerarchici i cosidetti “statements” e gli attributi le cosidette &lt;em&gt;&lt;a href=&quot;https://www.wikidata.org/wiki/Wikidata:List_of_properties/all&quot;&gt;“propertiers”&lt;/a&gt;&lt;/em&gt;. Le properties (qui una lista), definite sulla base del parametro &lt;em&gt;&lt;a href=&quot;http://www.slideshare.net/littledata/keyvalue-pairs&quot;&gt;key-value pairs&lt;/a&gt;&lt;/em&gt;, sono “descrittori” dei valori. A ciascuna property viene perciò assegnato un particolare valore (il “dato” vero e proprio) e dunque gli corrisponde una tipologia di dati (ad esempio: data di nascita: gg/mm/aa; coordinate geografiche: lat/long etc.).
+La strutturazione dei dati in Wikidata è simile a quella dei &lt;a href=&quot;https://www.wikidata.org/wiki/Wikidata:Glossary/it#Linkeddata&quot;&gt;linked data&lt;/a&gt;, basata sulla tripla soggetto-predicato-oggetto, corrispondente a item-property-valore assegnato (ad esempio, questa è una &lt;a href=&quot;http://askplatyp.us/&quot;&gt;applicazione&lt;/a&gt; basata sui linked data Wikidata).&lt;/p&gt;
+
+&lt;h3 id=&quot;come-si-usa-la-terra-secondo-wikidata&quot;&gt;Come si usa: la Terra secondo Wikidata&lt;/h3&gt;
+&lt;p&gt;Ora scendiamo nei dettagli! Ciascun item è costituito dai seguenti elementi: label, description, alias, statements. Proviamo a capire meglio cosa sono attraverso la disamina della pagina Wikidata sulla &lt;a href=&quot;https://www.wikidata.org/wiki/Q2?setlang=it&quot;&gt;Terra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://opendatabari.github.io/img/wikidata_earth.tiff&quot; alt=&quot;logo wikidata&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;label-earth&quot;&gt;&lt;em&gt;Label: Earth&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Poiché il codice univoco Q### è “poco utile agli uomini”, per rintracciare facilmente ciascun item è necessario darle un titolo immediatamente riconoscibile ed esplicativo (&lt;em&gt;Earth&lt;/em&gt;). A differenza del codice Q###, i label non sono univoci. Earth ad esempio è label per item differenti tra loro: &lt;a href=&quot;https://www.wikidata.org/wiki/Q1277599&quot;&gt;un gruppo musicale americano, un trio vocale giapponese, un video-gioco, una città del Texas etc.&lt;/a&gt;. 
+La successiva descrizione è dunque fondamentale per la disambiguazione dei labels: ci possono essere più items con lo stesso label, ma codici Q### diversi e descrizioni diverse. &lt;/p&gt;
+
+&lt;h4 id=&quot;description-third-planet-in-the-solar-system&quot;&gt;&lt;em&gt;Description: third planet in the Solar System&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;La descrizione deve essere breve e seguire lo stesso principio del &lt;em&gt;&lt;a href=&quot;https://it.wikipedia.org/wiki/Wikipedia:Punto_di_vista_neutrale&quot;&gt;“punto di vista neutrale”&lt;/a&gt;&lt;/em&gt; che informa la stesura delle voci su Wikipedia. Non a caso un buon metodo per stendere la descrizione di un item su Wikidata è utilizzare la descrizione dell’eventuale voce corrispondente su Wikipedia stessa.&lt;/p&gt;
+
+&lt;h4 id=&quot;alias-terra-gaia-sol-3-the-blue-planet-world-etc&quot;&gt;&lt;em&gt;Alias: Terra, Gaia, Sol-3, the Blue Planet, World (etc.)&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Gli alias sono nomi alternativi di uno stesso item, nella stessa lingua o in lingue diverse (es. alias dell’item &lt;em&gt;Earth/Terra&lt;/em&gt; in italiano).&lt;/p&gt;
+
+&lt;h4 id=&quot;statements-deepest-point-part-of-shape-has-part-etc&quot;&gt;&lt;em&gt;Statements: deepest point, part of, shape, has part (etc.)&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Per poter utilizzare Wikidata, le informazioni vengono strutturate attraverso statements. Ad esempio su Wikipedia alla voce “Terra” si legge: 
+“La Terra è il terzo pianeta in ordine di distanza dal Sole e il più grande dei pianeti terrestri del sistema solare, sia per quanto riguarda la massa che per il diametro” (voce consultata in data 01/12/2013). Le informazioni contenute in questa descrizione vanno così strutturate: &lt;/p&gt;
+
+&lt;h4 id=&quot;item-earthterra--statements-part-of-solar-system-sitema-solare-mass---diameter--etc&quot;&gt;&lt;em&gt;Item: Earth/Terra → statements: part of: Solar System/ Sitema Solare; mass: … ; diameter: … etc.&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Ciascun statement è composto dunque da una property cui viene associato un determinato valore.&lt;/p&gt;
+
+&lt;h4 id=&quot;i-luoghi-della-cultura-su-wikidata&quot;&gt;I luoghi della cultura su Wikidata&lt;/h4&gt;
+&lt;p&gt;Abbiamo intenzione di portare in Wikidata items relativi a luoghi della cultura della nostra regione. Immaginando per esempio di costruire un item relativo al Museo Archeologico Provinciale di Bari (di cui non esiste ancora un sito web ufficiale), i vari elementi che costituituenti potrebbero essere i seguenti:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;label&lt;/strong&gt;: Museo Archeologico Provinciale;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;description&lt;/strong&gt;: collezione permanente di reperti dall’età preistorica al medioevo significativi per la storia della regione Puglia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;alias&lt;/strong&gt;: Museo Archeologico di Santa Scolastica;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;statements&lt;/strong&gt; (alcuni esempi possibili): coordinate location: 41°13’21.85” N, 16°87’04.85” E; country: Italia; located in the administrative territorial entity: Bari; Commons gallery: (…); official website: (…); date of official opening: (…); visitors per year: (…) …&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.it/e/biglietti-scopriamo-i-luoghi-della-cultura-con-gli-opendata-19682972300&quot;&gt;Partecipa anche tu Venerdì 18 dicembre 2015 dalle 13:30 alle 18:00&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&quot;width:100%; text-align:left;&quot;&gt;&lt;iframe src=&quot;//eventbrite.it/tickets-external?eid=19682972300&amp;amp;ref=etckt&quot; frameborder=&quot;0&quot; height=&quot;260&quot; width=&quot;100%&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; marginheight=&quot;5&quot; marginwidth=&quot;5&quot; scrolling=&quot;auto&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;div style=&quot;font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;&quot;&gt;&lt;a class=&quot;powered-by-eb&quot; style=&quot;color: #dddddd; text-decoration: none;&quot; target=&quot;_blank&quot; href=&quot;http://www.eventbrite.it/r/etckt&quot;&gt;Con tecnologia Eventbrite&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 07 Dec 2015 00:00:00 +0100</pubDate>
+      </item>
     
       <item>
         <title>OpenPuglia al lavoro sui beni culturali</title>
@@ -401,45 +457,6 @@ Questa iniziativa rientra nell’ambito del progetto &lt;a href=&quot;http://liv
 &lt;p&gt;Durante il focus group sarà lanciato un Hackathon, che sarà realizzato ad ottobre, dedicato agli sviluppatori di app che vogliono utilizzare questi dati.&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Sep 2014 00:00:00 +0200</pubDate>
-      </item>
-    
-      <item>
-        <title>Europeana Eagle Project, “un ponte digitale verso il mondo antico”. Breve storia di una buona pratica.</title>
-        <link>http://opendatabari.github.io/blog/opendata/2014/05/24/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica.html</link>
-        <guid isPermaLink="true">http://opendatabari.github.io/blog/opendata/2014/05/24/europeana-eagle-project-un-ponte-digitale-verso-il-mondo-antico-breve-storia-di-una-buona-pratica.html</guid>
-        <description>&lt;p dir=&quot;ltr&quot;&gt;(Repost da &lt;a href=&quot;http://www.openpompei.it/&quot;&gt;OpenPompei&lt;/a&gt;)&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Lo scorso 16 Maggio Palazzo Massimo alle Terme ha ospitato l’incontro “Buone pratiche e progetti innovativi per la promozione dei beni culturali: EAGLE &amp;amp; Wiki Loves Monuments”.&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Nella &lt;a href=&quot;http://www.eagle-network.eu/eagle-wiki-loves-monuments-event/&quot;&gt;descrizione generale dell’evento&lt;/a&gt; si legge:&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;“Nel campo dei beni culturali, le opportunità offerte dalle tecnologie per la conservazione e la fruizione del patrimonio culturale hanno aperto scenari di grande interesse che però richiedono atteggiamenti nuovi da parte di tutti gli attori coinvolti: enti pubblici, imprese private, operatori del settore”.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;Il progetto Eagle esemplifica molto bene questi “atteggiamenti nuovi” che consentono di potenziare la funzione pubblica e sociale delle discipline storiche, tra cui l’archeologia e di conseguenza l’epigrafia, usando le nuove tecnologie dell’informazione e della comunicazione come agile veicolo di contenuti, stimolando la nascita di nuove prospettive di ricerca e facilitandone anche un riuso creativo, non solo a fini didattici.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;La storia del progetto (in breve).&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Eagle sin dalla nascita ha avuto un obiettivo assai ambizioso: “&lt;a href=&quot;http://www.eagle-eagle.it/Italiano/present_it.htm&quot;&gt;la registrazione di tutte le iscrizioni greche e latine anteriori al VII sec. d.C. secondo la miglior edizione esistente (eventualmente con ulteriori controlli ed emendamenti), corredate da alcuni altri dati fondamentali e, ove possibile, da una loro immagine&lt;/a&gt;”. Il progetto rappresenta il punto di arrivo dei lavori per la creazione di un’unica banca dati generale dell&#39;epigrafia antica, avviata nel 1997 dall’&lt;a href=&quot;http://www.aiegl.org/&quot;&gt;AIGLE&lt;/a&gt; (Associazione Internazionale di Epigrafia Greca e Latina). Nel 2003 esso si evolve in una “federazione” di banche dati epigrafiche, costituita inizialmente fra tre Univesità: &lt;a href=&quot;http://www.edb.uniba.it/&quot;&gt;Bari&lt;/a&gt;, &lt;a href=&quot;http://www.edr-edr.it/Italiano/index_it.php&quot;&gt;Roma&lt;/a&gt; ed &lt;a href=&quot;http://edh-www.adw.uni-heidelberg.de/home&quot;&gt;Heidelberg&lt;/a&gt; cui si è aggiunta nel 2009 &lt;a href=&quot;http://eda-bea.es/pub/contact.php&quot;&gt;Alcalà&lt;/a&gt;.&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Nel 2005 viene stipulata una &lt;a href=&quot;http://www.edr-edr.it/Documenti/Accordo%20MIBAC-EAGLE.pdf&quot;&gt;convenzione&lt;/a&gt; con il Ministero dei Beni Culturali per la messa in rete delle riproduzioni fotografiche relative a iscrizioni antiche dell&#39;Italia che sono edite e che sono o saranno in suo possesso. Nello stesso anno Eagle è stato inserito tra le &lt;a href=&quot;http://www.lincei.it/modules.php?name=Content&amp;amp;pa=showpage&amp;amp;pid=64&quot;&gt;linee di ricerca&lt;/a&gt; del Centro Linceo Interdisciplinare “Beniamino Segre”.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Europeana Eagle Project&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Lo scorso anno è stato avviato un progetto di collaborazione tra Eagle ed Europeana, finanziato dalla Commissione Europea nell&#39;ambito del programma di sostegno alle ICT, con lo scopo di fornire un unico portale di facile consultazione per le oltre 1,5 milioni di epigrafi ubicate nei diversi paesi dell&#39;Unione Europea.&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;L’Eagle network si è esteso anche a Wikimedia Italia ed al CNR. Il CNR, in particolar modo, sta sviluppando un sistema di riconoscimento per immagini alla base anche di un’applicazione mobile, che consentirà tale riconoscimento tramite smartphone. Un’altra applicazione che sarà disponibile per gli utenti è destinata ad attività di storytelling, per assemblare narrazioni a partire dai documenti epigrafici. Wikimedia Commons sarà la piattaforma che consentirà agli utenti di arricchire i metadati dei testi epigrafici: ad esempio con le traduzioni multilingue dei testi epigrafici stessi.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Non è necessario soffermarsi sulla tecnologia che supporta il progetto, ma più sull’idea alla base del progetto: l’epigrafia è una disciplina che può essere studiata, presentata e condivisa da vari utenti. Tale idea è messa in pratica attraverso “atteggiamenti nuovi”:&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;- condivisione&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Ognuna delle banche dati federate (&lt;a href=&quot;http://www.uni-heidelberg.de/institute/sonst/adw/edh/&quot;&gt;EDH&lt;/a&gt;, &lt;a href=&quot;http://www.edr-edr.it/&quot;&gt;EDR&lt;/a&gt;, &lt;a href=&quot;http://www.edb.uniba.it/&quot;&gt;EDB&lt;/a&gt; e &lt;a href=&quot;http://www.eda-bea.es/&quot;&gt;HE&lt;/a&gt;) si è dimostrata capace della più ampia collaborazione. Il MIBACT, tramite apposita convenzione, ha eliminato l’ostacolo giuridico posto dal Codice dei Beni Culturali e del Paesaggio per la pubblicazione delle immagini dei beni culturali.&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;La collaborazione internazionale ha trovato poi riscontro nel finanziamento da parte della Commissione Europea, condiviso da istituzioni di dodici Paesi (Italia, Germania, Spagna, Austria, Regno Unito, Romania, Ungheria, Croazia, Slovenia, Francia, Grecia, Belgio).&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;- uso dell’intelligenza collettiva&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Eagle nasce dalla condivisione di saperi interdisciplinari: alla sua realizzazione hanno collaborato e collaborano informatici ed epigrafisti, epigrafisti classici e cristiani, storici ed epigrafisti di tutto il mondo. L’estensione del network a Wikimedia Italia è un allargamento ulteriore della base di partecipazione ad un progetto di costruzione di una parte della memoria storica collettiva: colligite fragmenta ne pereant (Giovenale, 6, 12).&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;- costruzione di una nuova narrazione storica&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Tale coinvolgimento di un pubblico di non addetti ai lavori sarà potenziato anche dalla creazione di strumenti, quali quelli utili all’attività di storytelling, che daranno a questa disciplina storica un rinnovato valore pubblico e sociale, stimolando la curiosità verso il passato, creando strumenti agili di facilitazione e distribuzione di contenuti assai complessi, quali quelli veicolati dalle epigrafi. La necessità di costruire nuove narrazioni storiche era stata già discussa &lt;a href=&quot;http://www.openpompei.it/2013/06/03/quattro-chiacchiere-sulla-necessita-di-una-nuova-narrazione-archeologica/&quot;&gt;su questo blog&lt;/a&gt; relativamente a Pompei e come correttivo allo “scollamento tra cittadini e patrimonio archeologico”.&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;&lt;em&gt;In fotografia insegna bilingue (in latino ed in greco) di bottega di lapicida (CIL X, 7296): “qui si compongono e si incidono iscrizioni per edifici sacri e pubblici”&lt;/em&gt;&lt;/p&gt;
-&lt;p dir=&quot;ltr&quot;&gt;Paola Liliana Buttiglione&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0200</pubDate>
       </item>
     
   </channel>
